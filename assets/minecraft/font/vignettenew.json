@@ -1,0 +1,12 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "minecraft:_fonts/vignettenew.png",
+            "ascent": 123,
+            "height": 260,
+            "chars": ["\uE001"]
+        }
+
+    ]
+}
