@@ -7,56 +7,88 @@
       "model": "item/minecart"
     },
     "entries": [
-      { "threshold": 1, "model": { "type": "model", "model": "hpcore:item/epcot/ridecars/world_discovery/gotg/gotgcrvehicle" } },
-      { "threshold": 2, "model": { "type": "model", "model": "hpcore:item/epcot/ridecars/world_celebration/sse/sse_cart" } },
+      { "threshold": 1, "model": { "type": "model", "model": "hpcore:item/parks/epcot/ridecars/world_discovery/gotg/gotgcrvehicle" } },
+      { "threshold": 2, "model": { "type": "model", "model": "hpcore:item/parks/epcot/ridecars/world_celebration/sse/sse-cart" } },
       
-      { "threshold": 500, "model": { "type": "model", "model": "hpcore:item/transporation/monorails/black/wdwblackmonobody" } },
-      { "threshold": 501, "model": { "type": "model", "model": "hpcore:item/transporation/monorails/black/wdwblackfront" } },
-      { "threshold": 502, "model": { "type": "model", "model": "hpcore:item/transporation/monorails/black/monoraildoorblack" } },
-
-      { "threshold": 503, "model": { "type": "model", "model": "hpcore:item/transporation/monorails/blue/wdwbluemonobody" } },
-      { "threshold": 504, "model": { "type": "model", "model": "hpcore:item/transporation/monorails/blue/wdwbluefront" } },
-      { "threshold": 505, "model": { "type": "model", "model": "hpcore:item/transporation/monorails/blue/monoraildoorblue" } },
-
-      { "threshold": 506, "model": { "type": "model", "model": "hpcore:item/transporation/monorails/coral/wdwcoralmonobody" } },
-      { "threshold": 507, "model": { "type": "model", "model": "hpcore:item/transporation/monorails/coral/wdwcoralfront" } },
-      { "threshold": 508, "model": { "type": "model", "model": "hpcore:item/transporation/monorails/coral/monoraildoorcoral" } },
-
-      { "threshold": 509, "model": { "type": "model", "model": "hpcore:item/transporation/monorails/gold/wdwgoldmonobody" } },
-      { "threshold": 510, "model": { "type": "model", "model": "hpcore:item/transporation/monorails/gold/wdwgoldfront" } },
-      { "threshold": 511, "model": { "type": "model", "model": "hpcore:item/transporation/monorails/gold/monoraildoorgold" } },
-
-      { "threshold": 512, "model": { "type": "model", "model": "hpcore:item/transporation/monorails/green/wdwgreenmonobody" } },
-      { "threshold": 513, "model": { "type": "model", "model": "hpcore:item/transporation/monorails/green/wdwgreenfront" } },
-      { "threshold": 514, "model": { "type": "model", "model": "hpcore:item/transporation/monorails/green/monoraildoorgreen" } },
-
-      { "threshold": 515, "model": { "type": "model", "model": "hpcore:item/transporation/monorails/lime/wdwlimemonobody" } },
-      { "threshold": 516, "model": { "type": "model", "model": "hpcore:item/transporation/monorails/lime/wdwlimefront" } },
-      { "threshold": 517, "model": { "type": "model", "model": "hpcore:item/transporation/monorails/lime/monoraildoorelime" } },
-
-      { "threshold": 518, "model": { "type": "model", "model": "hpcore:item/transporation/monorails/orange/wdworangemonobody" } },
-      { "threshold": 519, "model": { "type": "model", "model": "hpcore:item/transporation/monorails/orange/wdworangefront" } },
-      { "threshold": 520, "model": { "type": "model", "model": "hpcore:item/transporation/monorails/orange/monoraildoororange" } },
-
-      { "threshold": 521, "model": { "type": "model", "model": "hpcore:item/transporation/monorails/peach/wdwpeachmonobody" } },
-      { "threshold": 522, "model": { "type": "model", "model": "hpcore:item/transporation/monorails/peach/wdwpeachfront" } },
-      { "threshold": 523, "model": { "type": "model", "model": "hpcore:item/transporation/monorails/peach/monoraildoorpeach" } },
-
-      { "threshold": 524, "model": { "type": "model", "model": "hpcore:item/transporation/monorails/red/wdwredmonobody" } },
-      { "threshold": 525, "model": { "type": "model", "model": "hpcore:item/transporation/monorails/red/wdwredfront" } },
-      { "threshold": 526, "model": { "type": "model", "model": "hpcore:item/transporation/monorails/red/monoraildoorred" } },
-
-      { "threshold": 527, "model": { "type": "model", "model": "hpcore:item/transporation/monorails/silver/wdwsilvermonobody" } },
-      { "threshold": 528, "model": { "type": "model", "model": "hpcore:item/transporation/monorails/silver/wdwsilverfront" } },
-      { "threshold": 529, "model": { "type": "model", "model": "hpcore:item/transporation/monorails/silver/monoraildoorsilver" } },
-
-      { "threshold": 530, "model": { "type": "model", "model": "hpcore:item/transporation/monorails/teal/wdwtealmonobody" } },
-      { "threshold": 531, "model": { "type": "model", "model": "hpcore:item/transporation/monorails/teal/wdwtealfront" } },
-      { "threshold": 532, "model": { "type": "model", "model": "hpcore:item/transporation/monorails/teal/monoraildoorteal" } },
+      { "threshold": 201, "model": { "type": "model", "model": "hpcore:item/parks/dhs/ridecars/galaxys_edge/rotr/rotrvehicle" } },
+      { "threshold": 202, "model": { "type": "model", "model": "hpcore:item/parks/dhs/ridecars/sunset_boulevard/tot/totcar" } },
       
-      { "threshold": 533, "model": { "type": "model", "model": "hpcore:item/transporation/monorails/yellow/wdwyellowmonobody" } },
-      { "threshold": 534, "model": { "type": "model", "model": "hpcore:item/transporation/monorails/yellow/wdwyellowfront" } },
-      { "threshold": 535, "model": { "type": "model", "model": "hpcore:item/transporation/monorails/yellow/monoraildooryellow" } }
+      { "threshold": 401, "model": { "type": "model", "model": "hpcore:item/parks/mk/ridecars/adventureland/jc/jungle-cruise" } },
+      { "threshold": 402, "model": { "type": "model", "model": "hpcore:item/parks/mk/ridecars/adventureland/mcoa/aladdin" } },
+      { "threshold": 403, "model": { "type": "model", "model": "hpcore:item/parks/mk/ridecars/adventureland/potc/pirates-boat" } },
+      { "threshold": 404, "model": { "type": "model", "model": "hpcore:item/parks/mk/ridecars/fantasyland/dumbo/dumbo" } },
+      { "threshold": 405, "model": { "type": "model", "model": "hpcore:item/parks/mk/ridecars/fantasyland/iasw/small-world-car" } },
+      { "threshold": 406, "model": { "type": "model", "model": "hpcore:item/parks/mk/ridecars/fantasyland/jotlm/lm-car" } },
+      { "threshold": 407, "model": { "type": "model", "model": "hpcore:item/parks/mk/ridecars/fantasyland/mtp/teacupblue" } },
+      { "threshold": 408, "model": { "type": "model", "model": "hpcore:item/parks/mk/ridecars/fantasyland/ppf/ppfvehicle" } },
+      { "threshold": 409, "model": { "type": "model", "model": "hpcore:item/parks/mk/ridecars/fantasyland/sdmt/sdmt-car" } },
+      { "threshold": 410, "model": { "type": "model", "model": "hpcore:item/parks/mk/ridecars/frontierland/btm/btm-front" } },
+      { "threshold": 411, "model": { "type": "model", "model": "hpcore:item/parks/mk/ridecars/frontierland/btm/btm-back" } },
+      { "threshold": 412, "model": { "type": "model", "model": "hpcore:item/parks/mk/ridecars/frontierland/tba/tba-log" } },
+      { "threshold": 413, "model": { "type": "model", "model": "hpcore:item/parks/mk/ridecars/liberty_square/hm/hm-car" } },
+      { "threshold": 414, "model": { "type": "model", "model": "hpcore:item/parks/mk/ridecars/main_street/msv/ms-trolley" } },
+      { "threshold": 415, "model": { "type": "model", "model": "hpcore:item/parks/mk/ridecars/main_street/wdwrr/mkrr-front-red" } },
+      { "threshold": 416, "model": { "type": "model", "model": "hpcore:item/parks/mk/ridecars/main_street/wdwrr/mkrr-back-red" } },
+      { "threshold": 417, "model": { "type": "model", "model": "hpcore:item/parks/mk/ridecars/tomorrowland/astro/astro-car" } },
+      { "threshold": 418, "model": { "type": "model", "model": "hpcore:item/parks/mk/ridecars/tomorrowland/pm/pm-car" } },
+      { "threshold": 419, "model": { "type": "model", "model": "hpcore:item/parks/mk/ridecars/tomorrowland/sm/sm-car" } },
+      { "threshold": 420, "model": { "type": "model", "model": "hpcore:item/parks/mk/ridecars/tomorrowland/tlsw/sw-car" } },
+      { "threshold": 421, "model": { "type": "model", "model": "hpcore:item/parks/mk/ridecars/tomorrowland/tlsw/sw-car-blue" } },
+      { "threshold": 422, "model": { "type": "model", "model": "hpcore:item/parks/mk/ridecars/tomorrowland/tlsw/sw-car-green" } },
+      { "threshold": 423, "model": { "type": "model", "model": "hpcore:item/parks/mk/ridecars/tomorrowland/tlsw/sw-car-red" } },
+      { "threshold": 424, "model": { "type": "model", "model": "hpcore:item/parks/mk/ridecars/tomorrowland/tron/lightcycle" } },
+
+
+
+
+
+      { "threshold": 601, "model": { "type": "model", "model": "hpcore:item/transporation/monorails/black/wdwblackmonobody" } },
+      { "threshold": 602, "model": { "type": "model", "model": "hpcore:item/transporation/monorails/black/wdwblackfront" } },
+      { "threshold": 603, "model": { "type": "model", "model": "hpcore:item/transporation/monorails/black/monoraildoorblack" } },
+
+      { "threshold": 604, "model": { "type": "model", "model": "hpcore:item/transporation/monorails/blue/wdwbluemonobody" } },
+      { "threshold": 605, "model": { "type": "model", "model": "hpcore:item/transporation/monorails/blue/wdwbluefront" } },
+      { "threshold": 606, "model": { "type": "model", "model": "hpcore:item/transporation/monorails/blue/monoraildoorblue" } },
+
+      { "threshold": 607, "model": { "type": "model", "model": "hpcore:item/transporation/monorails/coral/wdwcoralmonobody" } },
+      { "threshold": 608, "model": { "type": "model", "model": "hpcore:item/transporation/monorails/coral/wdwcoralfront" } },
+      { "threshold": 609, "model": { "type": "model", "model": "hpcore:item/transporation/monorails/coral/monoraildoorcoral" } },
+
+      { "threshold": 610, "model": { "type": "model", "model": "hpcore:item/transporation/monorails/gold/wdwgoldmonobody" } },
+      { "threshold": 611, "model": { "type": "model", "model": "hpcore:item/transporation/monorails/gold/wdwgoldfront" } },
+      { "threshold": 612, "model": { "type": "model", "model": "hpcore:item/transporation/monorails/gold/monoraildoorgold" } },
+
+      { "threshold": 613, "model": { "type": "model", "model": "hpcore:item/transporation/monorails/green/wdwgreenmonobody" } },
+      { "threshold": 614, "model": { "type": "model", "model": "hpcore:item/transporation/monorails/green/wdwgreenfront" } },
+      { "threshold": 615, "model": { "type": "model", "model": "hpcore:item/transporation/monorails/green/monoraildoorgreen" } },
+
+      { "threshold": 616, "model": { "type": "model", "model": "hpcore:item/transporation/monorails/lime/wdwlimemonobody" } },
+      { "threshold": 617, "model": { "type": "model", "model": "hpcore:item/transporation/monorails/lime/wdwlimefront" } },
+      { "threshold": 618, "model": { "type": "model", "model": "hpcore:item/transporation/monorails/lime/monoraildoorelime" } },
+
+      { "threshold": 619, "model": { "type": "model", "model": "hpcore:item/transporation/monorails/orange/wdworangemonobody" } },
+      { "threshold": 620, "model": { "type": "model", "model": "hpcore:item/transporation/monorails/orange/wdworangefront" } },
+      { "threshold": 621, "model": { "type": "model", "model": "hpcore:item/transporation/monorails/orange/monoraildoororange" } },
+
+      { "threshold": 622, "model": { "type": "model", "model": "hpcore:item/transporation/monorails/peach/wdwpeachmonobody" } },
+      { "threshold": 623, "model": { "type": "model", "model": "hpcore:item/transporation/monorails/peach/wdwpeachfront" } },
+      { "threshold": 624, "model": { "type": "model", "model": "hpcore:item/transporation/monorails/peach/monoraildoorpeach" } },
+
+      { "threshold": 625, "model": { "type": "model", "model": "hpcore:item/transporation/monorails/red/wdwredmonobody" } },
+      { "threshold": 626, "model": { "type": "model", "model": "hpcore:item/transporation/monorails/red/wdwredfront" } },
+      { "threshold": 627, "model": { "type": "model", "model": "hpcore:item/transporation/monorails/red/monoraildoorred" } },
+
+      { "threshold": 628, "model": { "type": "model", "model": "hpcore:item/transporation/monorails/silver/wdwsilvermonobody" } },
+      { "threshold": 629, "model": { "type": "model", "model": "hpcore:item/transporation/monorails/silver/wdwsilverfront" } },
+      { "threshold": 630, "model": { "type": "model", "model": "hpcore:item/transporation/monorails/silver/monoraildoorsilver" } },
+
+      { "threshold": 631, "model": { "type": "model", "model": "hpcore:item/transporation/monorails/teal/wdwtealmonobody" } },
+      { "threshold": 632, "model": { "type": "model", "model": "hpcore:item/transporation/monorails/teal/wdwtealfront" } },
+      { "threshold": 633, "model": { "type": "model", "model": "hpcore:item/transporation/monorails/teal/monoraildoorteal" } },
+      
+      { "threshold": 634, "model": { "type": "model", "model": "hpcore:item/transporation/monorails/yellow/wdwyellowmonobody" } },
+      { "threshold": 635, "model": { "type": "model", "model": "hpcore:item/transporation/monorails/yellow/wdwyellowfront" } },
+      { "threshold": 636, "model": { "type": "model", "model": "hpcore:item/transporation/monorails/yellow/monoraildooryellow" } }
     ]
   }
 }
