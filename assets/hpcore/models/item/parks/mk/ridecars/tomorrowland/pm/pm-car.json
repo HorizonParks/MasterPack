@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [128, 128],
 	"textures": {
-		"0": "hpcore:item/parks/mk/tomorrowland/pm/pmvehiclenew",
-		"particle": "hpcore:item/parks/mk/tomorrowland/pm/pmvehiclenew"
+		"0": "hpcore:item/parks/mk/ridecars/tomorrowland/pm/pmvehiclenew",
+		"particle": "hpcore:item/parks/mk/ridecars/tomorrowland/pm/pmvehiclenew"
 	},
 	"elements": [
 		{

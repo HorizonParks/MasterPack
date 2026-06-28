@@ -4,7 +4,7 @@
 	"ambientocclusion": false,
 	"texture_size": [128, 128],
 	"textures": {
-		"1": "hpcore:item/parks/mk/tomorrowland/tron/troncar"
+		"1": "hpcore:item/parks/mk/ridecars/tomorrowland/tron/troncar"
 	},
 	"elements": [
 		{
