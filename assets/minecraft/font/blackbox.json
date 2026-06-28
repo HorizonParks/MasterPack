@@ -2,7 +2,7 @@
     "providers": [
         {
             "type": "bitmap",
-            "file": "minecraft:_fonts/black_box.png",
+            "file": "hpcore:uis/misc/black_box.png",
             "ascent": 250,
             "height": 1500,
             "chars": ["a"]

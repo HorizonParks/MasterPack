@@ -2,7 +2,7 @@
     "providers": [
         {
             "type": "bitmap",
-            "file": "minecraft:_fonts/vignettenew.png",
+            "file": "hpcore:uis/misc/vignettenew.png",
             "ascent": 123,
             "height": 260,
             "chars": ["\uE001"]

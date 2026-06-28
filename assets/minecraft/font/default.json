@@ -1,6 +1,6 @@
 {
     "providers": [
-        {"type": "bitmap","file": "minecraft:_fonts/logo.png","ascent": 42,"height": 96,"chars": ["ꡥꡦ","ꡧꡨ"]},
+        {"type": "bitmap","file": "hpcore:uis/gui/logo.png","ascent": 42,"height": 96,"chars": ["ꡥꡦ","ꡧꡨ"]},
         {"type": "bitmap","file": "hpcore:uis/ranks/director.png","ascent": 7,"height": 7,"chars": ["ꀀ"]},
         {"type": "bitmap","file": "hpcore:uis/ranks/coordinator.png","ascent": 7,"height": 7,"chars": ["ꀁ"]},
         {"type": "bitmap","file": "hpcore:uis/ranks/imagineer.png","ascent": 7,"height": 7,"chars": ["ꀆ"]},

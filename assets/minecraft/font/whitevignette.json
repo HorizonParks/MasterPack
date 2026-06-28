@@ -2,7 +2,7 @@
     "providers": [
         {
             "type": "bitmap",
-            "file": "minecraft:_fonts/whitevignette.png",
+            "file": "hpcore:uis/misc/whitevignette.png",
             "ascent": 123,
             "height": 260,
             "chars": ["\uE002"]
