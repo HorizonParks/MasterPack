@@ -7,14 +7,14 @@
       "model": "item/iron_ingot"
     },
     "entries": [
-      { "threshold": 1, "model": { "type": "model", "model": "hpcore:item/epcot/props/signs/main_entrance/epcot_sign" } },
-      { "threshold": 2, "model": { "type": "model", "model": "hpcore:item/epcot/props/signs/world_celebration/center/club_cool_sign" } },
-      { "threshold": 3, "model": { "type": "model", "model": "hpcore:item/epcot/props/signs/world_celebration/center/connections_cafe_sign" } },
-      { "threshold": 4, "model": { "type": "model", "model": "hpcore:item/epcot/props/signs/world_celebration/center/connections_cafe_sign2" } },
-      { "threshold": 5, "model": { "type": "model", "model": "hpcore:item/epcot/props/signs/world_celebration/center/connections_eatery_sign" } },
-      { "threshold": 6, "model": { "type": "model", "model": "hpcore:item/epcot/props/signs/world_celebration/center/connections_eatery_sign2" } },
-      { "threshold": 7, "model": { "type": "model", "model": "hpcore:item/epcot/props/signs/world_celebration/center/creations_shop_sign" } },
-      { "threshold": 8, "model": { "type": "model", "model": "hpcore:item/epcot/props/signs/world_celebration/center/creations_shop_sign2" } }
+      { "threshold": 1, "model": { "type": "model", "model": "hpcore:block/epcot/props/signs/main_entrance/epcot_sign" } },
+      { "threshold": 2, "model": { "type": "model", "model": "hpcore:block/epcot/props/signs/world_celebration/center/club_cool_sign" } },
+      { "threshold": 3, "model": { "type": "model", "model": "hpcore:block/epcot/props/signs/world_celebration/center/connections_cafe_sign" } },
+      { "threshold": 4, "model": { "type": "model", "model": "hpcore:block/epcot/props/signs/world_celebration/center/connections_cafe_sign2" } },
+      { "threshold": 5, "model": { "type": "model", "model": "hpcore:block/epcot/props/signs/world_celebration/center/connections_eatery_sign" } },
+      { "threshold": 6, "model": { "type": "model", "model": "hpcore:block/epcot/props/signs/world_celebration/center/connections_eatery_sign2" } },
+      { "threshold": 7, "model": { "type": "model", "model": "hpcore:block/epcot/props/signs/world_celebration/center/creations_shop_sign" } },
+      { "threshold": 8, "model": { "type": "model", "model": "hpcore:block/epcot/props/signs/world_celebration/center/creations_shop_sign2" } }
     ]
   } 
 }

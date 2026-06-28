@@ -7,10 +7,10 @@
       "model": "item/iron_shovel"
     },
     "entries": [
-      { "threshold": 1, "model": { "type": "model", "model": "hpcore:item/epcot/props/trashcans/main_entrance/metrashcan" } },
-      { "threshold": 2, "model": { "type": "model", "model": "hpcore:item/epcot/props/trashcans/world_celebration/wctrashcan" } },
-      { "threshold": 3, "model": { "type": "model", "model": "hpcore:item/epcot/props/trashcans/world_discovery/wdtrashcan" } },
-      { "threshold": 4, "model": { "type": "model", "model": "hpcore:item/epcot/props/trashcans/world_nature/wntrashcan" } }
+      { "threshold": 1, "model": { "type": "model", "model": "hpcore:block/epcot/props/trashcans/main_entrance/metrashcan" } },
+      { "threshold": 2, "model": { "type": "model", "model": "hpcore:block/epcot/props/trashcans/world_celebration/wctrashcan" } },
+      { "threshold": 3, "model": { "type": "model", "model": "hpcore:block/epcot/props/trashcans/world_discovery/wdtrashcan" } },
+      { "threshold": 4, "model": { "type": "model", "model": "hpcore:block/epcot/props/trashcans/world_nature/wntrashcan" } }
     ]
   } 
 }
