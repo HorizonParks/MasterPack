@@ -64,7 +64,7 @@
 
       { "threshold": 616, "model": { "type": "model", "model": "hpcore:block/transportation/monorails/lime/wdwlimemonobody" } },
       { "threshold": 617, "model": { "type": "model", "model": "hpcore:block/transportation/monorails/lime/wdwlimefront" } },
-      { "threshold": 618, "model": { "type": "model", "model": "hpcore:block/transportation/monorails/lime/monoraildoorelime" } },
+      { "threshold": 618, "model": { "type": "model", "model": "hpcore:block/transportation/monorails/lime/monoraildoorlime" } },
 
       { "threshold": 619, "model": { "type": "model", "model": "hpcore:block/transportation/monorails/orange/wdworangemonobody" } },
       { "threshold": 620, "model": { "type": "model", "model": "hpcore:block/transportation/monorails/orange/wdworangefront" } },
