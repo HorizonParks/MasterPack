@@ -5,7 +5,7 @@
     "fallback": {
       "type": "model",
       "model": "item/diamond"
-    },
+    }, 
     "entries": [
       { "threshold": 1, "model": { "type": "model", "model": "hpcore:item/players/magicbands/mickeymouseclub" } },
       { "threshold": 2, "model": { "type": "model", "model": "hpcore:item/players/magicbands/magicbands/mickeychristmas" } },
