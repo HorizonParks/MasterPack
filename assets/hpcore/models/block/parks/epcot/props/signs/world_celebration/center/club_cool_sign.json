@@ -2,8 +2,8 @@
 	"format_version": "1.21.11",
 	"credit": "made by bellymustache",
 	"textures": {
-		"0": "hpcore:item/epcot/props/signs/world_celebration/center/club_cool_sign",
-		"particle": "hpcore:item/epcot/props/signs/world_celebration/center/club_cool_sign"
+		"0": "hpcore:block/parks/epcot/props/signs/world_celebration/center/club_cool_sign",
+		"particle": "hpcore:block/parks/epcot/props/signs/world_celebration/center/club_cool_sign"
 	},
 	"elements": [
 		{

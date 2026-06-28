@@ -3,9 +3,9 @@
 	"credit": "made by bellymustache",
 	"texture_size": [8, 8],
 	"textures": {
-		"2": "hpcore:item/epcot/props/signs/world_celebration/center/connections_eatery_sign2",
-		"3": "hpcore:item/epcot/props/signs/world_celebration/center/connections_eatery_sign2_small_text",
-		"particle": "hpcore:item/epcot/props/signs/world_celebration/center/connections_eatery_sign2"
+		"2": "hpcore:block/parks/epcot/props/signs/world_celebration/center/connections_eatery_sign2",
+		"3": "hpcore:block/parks/epcot/props/signs/world_celebration/center/connections_eatery_sign2_small_text",
+		"particle": "hpcore:block/parks/epcot/props/signs/world_celebration/center/connections_eatery_sign2"
 	},
 	"elements": [
 		{

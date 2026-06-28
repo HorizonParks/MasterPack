@@ -2,11 +2,11 @@
 	"format_version": "1.21.11",
 	"credit": "made by bellymustache for horizonparks",
 	"textures": {
-		"0": "hpcore:item/epcot/props/signs/world_discovery/gotg/wonders_of_xandar",
-		"1": "hpcore:item/epcot/props/signs/world_discovery/gotg/our_world",
-		"2": "hpcore:item/epcot/props/signs/world_discovery/gotg/wonders_of_xandar_text",
-		"3": "hpcore:item/epcot/props/signs/world_discovery/gotg/our_world_text",
-		"particle": "hpcore:item/epcot/props/signs/world_discovery/gotg/our_world"
+		"0": "hpcore:block/parks/epcot/props/signs/world_discovery/gotg/wonders_of_xandar",
+		"1": "hpcore:block/parks/epcot/props/signs/world_discovery/gotg/our_world",
+		"2": "hpcore:block/parks/epcot/props/signs/world_discovery/gotg/wonders_of_xandar_text",
+		"3": "hpcore:block/parks/epcot/props/signs/world_discovery/gotg/our_world_text",
+		"particle": "hpcore:block/parks/epcot/props/signs/world_discovery/gotg/our_world"
 	},
 	"elements": [
 		{

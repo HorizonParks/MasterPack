@@ -2,9 +2,9 @@
 	"format_version": "1.21.11",
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "hpcore:item/epcot/props/trashcans/world_discovery/wdtrashcan",
-		"1": "hpcore:item/epcot/props/trashcans/world_discovery/wdtrashcandoor",
-		"particle": "hpcore:item/epcot/props/trashcans/world_discovery/wdtrashcan"
+		"0": "hpcore:block/parks/epcot/props/trashcans/world_discovery/wdtrashcan",
+		"1": "hpcore:block/parks/epcot/props/trashcans/world_discovery/wdtrashcandoor",
+		"particle": "hpcore:block/parks/epcot/props/trashcans/world_discovery/wdtrashcan"
 	},
 	"elements": [
 		{
