@@ -1,0 +1,24 @@
+{
+  "model": {
+    "type": "range_dispatch",
+    "property": "custom_model_data",
+    "fallback": {
+      "type": "model",
+      "model": "item/iron_hoe"
+    },
+    "entries": [
+      { "threshold": 1, "model": { "type": "model", "model": "hpcore:block/transportation/monorails/black/monoraildoorblack" } },
+        { "threshold": 2, "model": { "type": "model", "model": "hpcore:block/transportation/monorails/blue/monoraildoorblue" } },
+        { "threshold": 3, "model": { "type": "model", "model": "hpcore:block/transportation/monorails/coral/monoraildoorcoral" } },
+        { "threshold": 4, "model": { "type": "model", "model": "hpcore:block/transportation/monorails/gold/monoraildoorgold" } },
+        { "threshold": 5, "model": { "type": "model", "model": "hpcore:block/transportation/monorails/green/monoraildoorgreen" } },
+        { "threshold": 6, "model": { "type": "model", "model": "hpcore:block/transportation/monorails/lime/monoraildoorlime" } },
+        { "threshold": 7, "model": { "type": "model", "model": "hpcore:block/transportation/monorails/orange/monoraildoororange" } },
+        { "threshold": 8, "model": { "type": "model", "model": "hpcore:block/transportation/monorails/peach/monoraildoorpeach" } },
+        { "threshold": 9, "model": { "type": "model", "model": "hpcore:block/transportation/monorails/red/monoraildoorred" } },
+        { "threshold": 10, "model": { "type": "model", "model": "hpcore:block/transportation/monorails/silver/monoraildoorsilver" } },
+        { "threshold": 11, "model": { "type": "model", "model": "hpcore:block/transportation/monorails/teal/monoraildoorteal" } },
+        { "threshold": 12, "model": { "type": "model", "model": "hpcore:block/transportation/monorails/yellow/monoraildooryellow" } }
+    ]
+  } 
+}
