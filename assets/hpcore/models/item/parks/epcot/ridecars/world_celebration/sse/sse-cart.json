@@ -3,8 +3,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [128, 128],
 	"textures": {
-		"0": "hpcore:item/epcot/ridecars/world_celebration/sse/sse_ride_vehicle_texture",
-		"particle": "hpcore:item/epcot/ridecars/world_celebration/sse/sse_ride_vehicle_texture"
+		"0": "hpcore:item/parks/epcot/ridecars/world_celebration/sse/sse_ride_vehicle_texture",
+		"particle": "hpcore:item/parks/epcot/ridecars/world_celebration/sse/sse_ride_vehicle_texture"
 	},
 	"elements": [
 		{

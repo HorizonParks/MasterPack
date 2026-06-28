@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "item/custom/mk/wdwmkrr",
-		"particle": "item/custom/mk/wdwmkrr"
+		"0": "hpcore:item/parks/mk/main_street/wdwrr/wdwmkrr",
+		"particle": "hpcore:item/parks/mk/main_street/wdwrr/wdwmkrr"
 	},
 	"elements": [
 		{

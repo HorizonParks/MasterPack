@@ -7,8 +7,8 @@
 		"3": "block/oak_planks",
 		"4": "block/glowstone",
 		"5": "block/black_concrete",
-		"6": "item/custom/mk/ms/mk-ms-trolley/frontlogo",
-		"7": "item/custom/mk/ms/mk-ms-trolley/sidelogo",
+		"6": "hpcore:item/parks/mk/main_street/msv/frontlogo",
+		"7": "hpcore:item/parks/mk/main_street/msv/sidelogo",
 		"particle": "block/yellow_concrete"
 	},
 	"elements": [

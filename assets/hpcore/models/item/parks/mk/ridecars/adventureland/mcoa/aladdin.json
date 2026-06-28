@@ -2,8 +2,8 @@
 	"credit": "EndingSoon was here",
 	"texture_size": [128, 128],
 	"textures": {
-		"0": "item/custom/mk/flyingcarpet",
-		"particle": "item/custom/mk/flyingcarpet"
+		"0": "hpcore:item/parks/mk/adventureland/mcoa/flyingcarpet",
+		"particle": "hpcore:item/parks/mk/adventureland/mcoa/flyingcarpet"
 	},
 	"elements": [
 		{
