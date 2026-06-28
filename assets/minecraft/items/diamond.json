@@ -21,7 +21,7 @@
       { "threshold": 12, "model": { "type": "model", "model": "hpcore:item/players/magicbands/textured/100thpartner" } },
       { "threshold": 13, "model": { "type": "model", "model": "hpcore:item/players/magicbands/solids/navy" } },
       { "threshold": 14, "model": { "type": "model", "model": "hpcore:item/players/magicbands/textured/fantasmicband" } },
-      { "threshold": 15, "model": { "type": "model", "model": "hpcore:item/players/magicbands/textured/mickeyband" } },
+      
       { "threshold": 16, "model": { "type": "model", "model": "hpcore:item/players/magicbands/textured/wdwicon" } },
       { "threshold": 17, "model": { "type": "model", "model": "hpcore:item/players/magicbands/textured/fantasia" } },
       { "threshold": 19, "model": { "type": "model", "model": "hpcore:item/players/magicbands/textured/bluemickey" } },
