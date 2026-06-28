@@ -2,8 +2,8 @@
 	"format_version": "1.21.11",
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "hpcore:item/transportation/monorails/peach/monorailpeachdoor",
-		"particle": "hpcore:item/transportation/monorails/peach/monorailpeachdoor"
+		"0": "hpcore:block/transportation/monorails/peach/monorailpeachdoor",
+		"particle": "hpcore:block/transportation/monorails/peach/monorailpeachdoor"
 	},
 	"elements": [
 		{

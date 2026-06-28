@@ -1,1 +1,0 @@
-{"length":1.15,"animations":[{"bone":"text_display","target":"position","keyframes":[{"timestamp":0,"target":[0,0,0],"interpolation":"linear"},{"timestamp":0.6,"target":[0,4,0],"interpolation":"linear"},{"timestamp":1.15,"target":[0,0,0],"interpolation":"linear"}]}],"loop":true}

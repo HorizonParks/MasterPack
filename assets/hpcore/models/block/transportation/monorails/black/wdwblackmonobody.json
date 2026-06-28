@@ -3,9 +3,9 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [4, 4],
 	"textures": {
-		"7": "item/monorails/monorailblacktext",
-		"9": "item/monorails/monorailblackbody",
-		"10": "item/monorails/monorailwdwtextbody"
+		"7": "hpcore:block/transportation/monorails/black/monorailblacktext",
+		"9": "hpcore:block/transportation/monorails/black/monorailblackbody",
+		"10": "hpcore:block/transportation/monorails/black/monorailwdwtextbody"
 	},
 	"elements": [
 		{

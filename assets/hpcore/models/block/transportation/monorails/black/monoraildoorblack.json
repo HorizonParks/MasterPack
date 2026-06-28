@@ -2,8 +2,8 @@
 	"format_version": "1.21.11",
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "hpcore:item/transportation/monorails/black/monorailblackdoor",
-		"particle": "hpcore:item/transportation/monorails/black/monorailblackdoor"
+		"0": "hpcore:block/transportation/monorails/black/monorailblackdoor",
+		"particle": "hpcore:block/transportation/monorails/black/monorailblackdoor"
 	},
 	"elements": [
 		{

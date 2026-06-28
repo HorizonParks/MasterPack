@@ -3,12 +3,12 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [4, 4],
 	"textures": {
-		"2": "hpcore:item/transportation/monorails/orange/monorailorangefront",
-		"3": "hpcore:item/transportation/monorails/orange/monorailorange",
-		"4": "hpcore:item/transportation/monorails/orange/monorailorangetext",
-		"5": "hpcore:item/transportation/monorails/orange/monorailwdwtext",
-		"6": "hpcore:item/transportation/monorails/orange/monorailheadlights",
-		"particle": "hpcore:item/transportation/monorails/orange/monorailorange"
+		"2": "hpcore:block/transportation/monorails/orange/monorailorangefront",
+		"3": "hpcore:block/transportation/monorails/orange/monorailorange",
+		"4": "hpcore:block/transportation/monorails/orange/monorailorangetext",
+		"5": "hpcore:block/transportation/monorails/orange/monorailwdwtext",
+		"6": "hpcore:block/transportation/monorails/orange/monorailheadlights",
+		"particle": "hpcore:block/transportation/monorails/orange/monorailorange"
 	},
 	"elements": [
 		{
