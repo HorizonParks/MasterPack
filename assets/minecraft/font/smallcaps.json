@@ -2,7 +2,7 @@
   "providers": [
 {
             "type": "bitmap",
-            "file": "hpcore:uis/text/smallcaps.png",
+            "file": "hpcore:block/uis/text/smallcaps.png",
             "ascent": 7,
             "chars": [
                 "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",

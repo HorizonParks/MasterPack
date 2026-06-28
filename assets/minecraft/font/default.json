@@ -1,14 +1,14 @@
 {
     "providers": [
-        {"type": "bitmap","file": "hpcore:uis/gui/logo.png","ascent": 42,"height": 96,"chars": ["ꡥꡦ","ꡧꡨ"]},
-        {"type": "bitmap","file": "hpcore:uis/ranks/director.png","ascent": 7,"height": 7,"chars": ["ꀀ"]},
-        {"type": "bitmap","file": "hpcore:uis/ranks/coordinator.png","ascent": 7,"height": 7,"chars": ["ꀁ"]},
-        {"type": "bitmap","file": "hpcore:uis/ranks/imagineer.png","ascent": 7,"height": 7,"chars": ["ꀆ"]},
-        {"type": "bitmap","file": "hpcore:uis/ranks/developer.png","ascent": 7,"height": 7,"chars": ["ꀈ"]},
-        {"type": "bitmap","file": "hpcore:uis/ranks/character.png","ascent": 7,"height": 7,"chars": ["ꀓ"]},
-        {"type": "bitmap","file": "hpcore:uis/ranks/cast-member.png","ascent": 7,"height": 7,"chars": ["ꀊ"]},
-        {"type": "bitmap","file": "hpcore:uis/ranks/retired.png","ascent": 7,"height": 7,"chars": ["ꌔ"]},
-        {"type": "bitmap","file": "hpcore:uis/ranks/guest.png","ascent": 7,"height": 7,"chars": ["ꀌ"]},
-        {"type": "bitmap","file": "hpcore:uis/misc/pixel_split.png","ascent": -32768,"height": -3,"chars": [""]}
+        {"type": "bitmap","file": "hpcore:block/uis/gui/logo.png","ascent": 42,"height": 96,"chars": ["ꡥꡦ","ꡧꡨ"]},
+        {"type": "bitmap","file": "hpcore:block/uis/ranks/director.png","ascent": 7,"height": 7,"chars": ["ꀀ"]},
+        {"type": "bitmap","file": "hpcore:block/uis/ranks/coordinator.png","ascent": 7,"height": 7,"chars": ["ꀁ"]},
+        {"type": "bitmap","file": "hpcore:block/uis/ranks/imagineer.png","ascent": 7,"height": 7,"chars": ["ꀆ"]},
+        {"type": "bitmap","file": "hpcore:block/uis/ranks/developer.png","ascent": 7,"height": 7,"chars": ["ꀈ"]},
+        {"type": "bitmap","file": "hpcore:block/uis/ranks/character.png","ascent": 7,"height": 7,"chars": ["ꀓ"]},
+        {"type": "bitmap","file": "hpcore:block/uis/ranks/cast-member.png","ascent": 7,"height": 7,"chars": ["ꀊ"]},
+        {"type": "bitmap","file": "hpcore:block/uis/ranks/retired.png","ascent": 7,"height": 7,"chars": ["ꌔ"]},
+        {"type": "bitmap","file": "hpcore:block/uis/ranks/guest.png","ascent": 7,"height": 7,"chars": ["ꀌ"]},
+        {"type": "bitmap","file": "hpcore:block/uis/misc/pixel_split.png","ascent": -32768,"height": -3,"chars": [""]}
     ]
 }

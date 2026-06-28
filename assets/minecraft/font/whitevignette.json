@@ -2,7 +2,7 @@
     "providers": [
         {
             "type": "bitmap",
-            "file": "hpcore:uis/misc/whitevignette.png",
+            "file": "hpcore:block/uis/misc/whitevignette.png",
             "ascent": 123,
             "height": 260,
             "chars": ["\uE002"]
