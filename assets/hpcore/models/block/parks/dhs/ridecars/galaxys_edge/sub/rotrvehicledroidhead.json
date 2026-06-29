@@ -1,13 +1,13 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"1": "hpcore:item/parks/dhs/ridecars/galaxys_edge/sub/rotr/rotrvehicledroidhead2",
-		"2": "hpcore:item/parks/dhs/ridecars/galaxys_edge/sub/rotr/rotrvehicledroidhead3",
-		"3": "hpcore:item/parks/dhs/ridecars/galaxys_edge/sub/rotr/rotrvehicledroid3",
-		"4": "hpcore:item/parks/dhs/ridecars/galaxys_edge/sub/rotr/rotrvehicledroidhead5",
-		"6": "hpcore:item/parks/dhs/ridecars/galaxys_edge/sub/rotr/rotrvehicledroid5",
-		"7": "hpcore:item/parks/dhs/ridecars/galaxys_edge/sub/rotr/rotrvehicledroid6",
-		"particle": "hpcore:item/parks/dhs/ridecars/galaxys_edge/sub/rotr/rotrvehicledroidhead3"
+		"1": "hpcore:block/parks/dhs/ridecars/galaxys_edge/sub/rotr/rotrvehicledroidhead2",
+		"2": "hpcore:block/parks/dhs/ridecars/galaxys_edge/sub/rotr/rotrvehicledroidhead3",
+		"3": "hpcore:block/parks/dhs/ridecars/galaxys_edge/sub/rotr/rotrvehicledroid3",
+		"4": "hpcore:block/parks/dhs/ridecars/galaxys_edge/sub/rotr/rotrvehicledroidhead5",
+		"6": "hpcore:block/parks/dhs/ridecars/galaxys_edge/sub/rotr/rotrvehicledroid5",
+		"7": "hpcore:block/parks/dhs/ridecars/galaxys_edge/sub/rotr/rotrvehicledroid6",
+		"particle": "hpcore:block/parks/dhs/ridecars/galaxys_edge/sub/rotr/rotrvehicledroidhead3"
 	},
 	"elements": [
 		{

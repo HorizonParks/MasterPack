@@ -1,7 +1,7 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"1": "hpcore:item/parks/dhs/ridecars/galaxys_edge/sub/rotr/rotrvehicledoornew"
+		"1": "hpcore:block/parks/dhs/ridecars/galaxys_edge/sub/rotr/rotrvehicledoornew"
 	},
 	"elements": [
 		{
