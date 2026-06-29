@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "hpcore:block/parks/dhs/props/rides/galaxys_edge/rotr/ROTRENTRANCETURRETSTEXTURE",
-		"particle": "hpcore:block/parks/dhs/props/rides/galaxys_edge/rotr/ROTRENTRANCETURRETSTEXTURE"
+		"0": "hpcore:block/parks/dhs/props/rides/galaxys_edge/rotr/rotrentranceturretstexture",
+		"particle": "hpcore:block/parks/dhs/props/rides/galaxys_edge/rotr/rotrentranceturretstexture"
 	},
 	"elements": [
 		{
