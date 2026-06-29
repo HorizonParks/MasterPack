@@ -2,9 +2,9 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "hpcore:item/parks/dhs/props/rides/sunset_boulevard/tot/texturetotcurtains",
-		"1": "hpcore:item/parks/dhs/props/rides/sunset_boulevard/tot/texturetotcurtain2",
-		"particle": "hpcore:item/parks/dhs/props/rides/sunset_boulevard/tot/texturetotcurtains"
+		"0": "hpcore:block/parks/dhs/props/rides/sunset_boulevard/tot/texturetotcurtains",
+		"1": "hpcore:block/parks/dhs/props/rides/sunset_boulevard/tot/texturetotcurtain2",
+		"particle": "hpcore:block/parks/dhs/props/rides/sunset_boulevard/tot/texturetotcurtains"
 	},
 	"elements": [
 		{

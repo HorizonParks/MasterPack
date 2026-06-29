@@ -1,9 +1,9 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "hpcore:item/parks/dhs/props/rides/galaxys_edge/rotr/bekchair1new",
-		"2": "hpcore:item/parks/dhs/props/rides/galaxys_edge/rotr/bekchair2",
-		"particle": "hpcore:item/parks/dhs/props/rides/galaxys_edge/rotr/bekchair1new"
+		"0": "hpcore:block/parks/dhs/props/rides/galaxys_edge/rotr/bekchair1new",
+		"2": "hpcore:block/parks/dhs/props/rides/galaxys_edge/rotr/bekchair2",
+		"particle": "hpcore:block/parks/dhs/props/rides/galaxys_edge/rotr/bekchair1new"
 	},
 	"elements": [
 		{

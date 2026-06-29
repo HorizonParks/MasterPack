@@ -3,8 +3,8 @@
 	"parent": "bekchair",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "hpcore:item/parks/dhs/props/rides/galaxys_edge/rotr/bekchair",
-		"particle": "hpcore:item/parks/dhs/props/rides/galaxys_edge/rotr/bekchair"
+		"0": "hpcore:block/parks/dhs/props/rides/galaxys_edge/rotr/bekchair",
+		"particle": "hpcore:block/parks/dhs/props/rides/galaxys_edge/rotr/bekchair"
 	},
 	"elements": [
 		{

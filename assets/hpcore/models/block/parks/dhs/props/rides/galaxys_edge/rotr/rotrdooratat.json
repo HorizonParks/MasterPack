@@ -4,7 +4,7 @@
 	"parent": "rotrdooratat",
 	"texture_size": [64, 64],
 	"textures": {
-		"1": "hpcore:item/parks/dhs/props/rides/galaxys_edge/rotr/rotrdooratat"
+		"1": "hpcore:block/parks/dhs/props/rides/galaxys_edge/rotr/rotrdooratat"
 	},
 	"elements": [
 		{

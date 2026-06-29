@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"2": "hpcore:item/parks/dhs/props/rides/galaxys_edge/rotr/rotrblinker2animatenew",
-		"particle": "hpcore:item/parks/dhs/props/rides/galaxys_edge/rotr/rotrblinker2"
+		"2": "hpcore:block/parks/dhs/props/rides/galaxys_edge/rotr/rotrblinker2animatenew",
+		"particle": "hpcore:block/parks/dhs/props/rides/galaxys_edge/rotr/rotrblinker2"
 	},
 	"elements": [
 		{

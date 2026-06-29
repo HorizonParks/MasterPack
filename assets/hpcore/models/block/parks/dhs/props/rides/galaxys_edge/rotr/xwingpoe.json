@@ -3,8 +3,8 @@
 	"parent": "xwingpoe",
 	"texture_size": [8, 8],
 	"textures": {
-		"4": "hpcore:item/parks/dhs/props/rides/galaxys_edge/rotr/xwingpoe",
-		"particle": "hpcore:item/parks/dhs/props/rides/galaxys_edge/rotr/xwingpoe"
+		"4": "hpcore:block/parks/dhs/props/rides/galaxys_edge/rotr/xwingpoe",
+		"particle": "hpcore:block/parks/dhs/props/rides/galaxys_edge/rotr/xwingpoe"
 	},
 	"elements": [
 		{

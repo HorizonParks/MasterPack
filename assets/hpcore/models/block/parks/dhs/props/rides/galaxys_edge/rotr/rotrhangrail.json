@@ -1,11 +1,11 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"3": "hpcore:item/parks/dhs/props/rides/galaxys_edge/rotr/rotrhangrail1animate",
-		"4": "hpcore:item/parks/dhs/props/rides/galaxys_edge/rotr/rotrhangrail3",
-		"5": "hpcore:item/parks/dhs/props/rides/galaxys_edge/rotr/rotrhangrail2",
-		"6": "hpcore:item/parks/dhs/props/rides/galaxys_edge/rotr/rotrhangrail1",
-		"particle": "hpcore:item/parks/dhs/props/rides/galaxys_edge/rotr/rotrhangrail1"
+		"3": "hpcore:block/parks/dhs/props/rides/galaxys_edge/rotr/rotrhangrail1animate",
+		"4": "hpcore:block/parks/dhs/props/rides/galaxys_edge/rotr/rotrhangrail3",
+		"5": "hpcore:block/parks/dhs/props/rides/galaxys_edge/rotr/rotrhangrail2",
+		"6": "hpcore:block/parks/dhs/props/rides/galaxys_edge/rotr/rotrhangrail1",
+		"particle": "hpcore:block/parks/dhs/props/rides/galaxys_edge/rotr/rotrhangrail1"
 	},
 	"elements": [
 		{

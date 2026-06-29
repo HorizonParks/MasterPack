@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "hpcore:item/parks/dhs/props/rides/galaxys_edge/rotr/pre1screenthingblue",
-		"particle": "hpcore:item/parks/dhs/props/rides/galaxys_edge/rotr/pre1screenthingblue"
+		"0": "hpcore:block/parks/dhs/props/rides/galaxys_edge/rotr/pre1screenthingblue",
+		"particle": "hpcore:block/parks/dhs/props/rides/galaxys_edge/rotr/pre1screenthingblue"
 	},
 	"elements": [
 		{

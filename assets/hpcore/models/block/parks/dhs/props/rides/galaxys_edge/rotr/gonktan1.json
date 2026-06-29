@@ -3,8 +3,8 @@
 	"parent": "gonktan",
 	"texture_size": [8, 8],
 	"textures": {
-		"2": "hpcore:item/parks/dhs/props/rides/galaxys_edge/rotr/texturegonktan",
-		"particle": "hpcore:item/parks/dhs/props/rides/galaxys_edge/rotr/texturegonktan"
+		"2": "hpcore:block/parks/dhs/props/rides/galaxys_edge/rotr/texturegonktan",
+		"particle": "hpcore:block/parks/dhs/props/rides/galaxys_edge/rotr/texturegonktan"
 	},
 	"elements": [
 		{

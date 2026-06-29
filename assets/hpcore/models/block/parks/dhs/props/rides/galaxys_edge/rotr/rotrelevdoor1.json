@@ -2,9 +2,9 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [64, 64],
 	"textures": {
-		"1": "hpcore:item/parks/dhs/props/rides/galaxys_edge/rotr/texturerotrelevdooranimate",
-		"2": "hpcore:item/parks/dhs/props/rides/galaxys_edge/rotr/texturerotrelevdooranimate",
-		"particle": "hpcore:item/parks/dhs/props/rides/galaxys_edge/rotr/texturerotrelevdooranimate"
+		"1": "hpcore:block/parks/dhs/props/rides/galaxys_edge/rotr/texturerotrelevdooranimate",
+		"2": "hpcore:block/parks/dhs/props/rides/galaxys_edge/rotr/texturerotrelevdooranimate",
+		"particle": "hpcore:block/parks/dhs/props/rides/galaxys_edge/rotr/texturerotrelevdooranimate"
 	},
 	"elements": [
 		{

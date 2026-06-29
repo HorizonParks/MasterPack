@@ -2,7 +2,7 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
-		"1": "hpcore:item/parks/dhs/props/rides/sunset_boulevard/tot/arms/totworkerarm"
+		"1": "hpcore:block/parks/dhs/props/rides/sunset_boulevard/tot/arms/totworkerarm"
 	},
 	"elements": [
 		{

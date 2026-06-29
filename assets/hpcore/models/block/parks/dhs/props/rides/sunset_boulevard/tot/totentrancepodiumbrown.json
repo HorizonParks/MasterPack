@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "hpcore:item/parks/dhs/props/rides/sunset_boulevard/tot/totentrancepodiumbrown",
-		"particle": "hpcore:item/parks/dhs/props/rides/sunset_boulevard/tot/totentrancepodiumbrown"
+		"0": "hpcore:block/parks/dhs/props/rides/sunset_boulevard/tot/totentrancepodiumbrown",
+		"particle": "hpcore:block/parks/dhs/props/rides/sunset_boulevard/tot/totentrancepodiumbrown"
 	},
 	"elements": [
 		{
