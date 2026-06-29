@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "hpcore:block/parks/dhs/props/shows/echo_lake/ijess/ijess_logo",
-		"particle": "hpcore:block/parks/dhs/props/shows/echo_lake/ijess/ijess_logo"
+		"0": "hpcore:block/parks/dhs/props/signs/echo_lake/ijess/ijess_logo",
+		"particle": "hpcore:block/parks/dhs/props/signs/echo_lake/ijess/ijess_logo"
 	},
 	"elements": [
 		{
