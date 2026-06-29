@@ -1,0 +1,29 @@
+{
+  "model": {
+    "type": "range_dispatch",
+    "property": "custom_model_data",
+    "fallback": {
+      "type": "model",
+      "model": "item/diamond_pickaxe"
+    },
+    "entries": [
+      { "threshold": 1, "model": { "type": "model", "model": "hpcore:block/players/hats/barbossahat" } },
+      { "threshold": 2, "model": { "type": "model", "model": "hpcore:block/players/hats/christmasheadband" } },
+      { "threshold": 3, "model": { "type": "model", "model": "hpcore:block/players/hats/cowboy" } },
+      { "threshold": 4, "model": { "type": "model", "model": "hpcore:block/players/hats/disneyhat" } },
+      { "threshold": 5, "model": { "type": "model", "model": "hpcore:block/players/hats/furhat" } },
+      { "threshold": 6, "model": { "type": "model", "model": "hpcore:block/players/hats/grad" } },
+      { "threshold": 7, "model": { "type": "model", "model": "hpcore:block/players/hats/jacks" } },
+      { "threshold": 8, "model": { "type": "model", "model": "hpcore:block/players/hats/miniieheadband" } },
+      { "threshold": 9, "model": { "type": "model", "model": "hpcore:block/players/hats/mouseears" } },
+      { "threshold": 10, "model": { "type": "model", "model": "hpcore:block/players/hats/mouseearsgold" } },
+      { "threshold": 11, "model": { "type": "model", "model": "hpcore:block/players/hats/piratehat" } },
+      { "threshold": 12, "model": { "type": "model", "model": "hpcore:block/players/hats/reddapperdanhat" } },
+      { "threshold": 13, "model": { "type": "model", "model": "hpcore:block/players/hats/santamickeyhat" } },
+      { "threshold": 14, "model": { "type": "model", "model": "hpcore:block/players/hats/spainairdpotc" } },
+      { "threshold": 15, "model": { "type": "model", "model": "hpcore:block/players/hats/sunglasses" } },
+      { "threshold": 16, "model": { "type": "model", "model": "hpcore:block/players/hats/tie-blue" } },
+      { "threshold": 17, "model": { "type": "model", "model": "hpcore:block/players/hats/drhatnew" } }
+    ]
+  } 
+}

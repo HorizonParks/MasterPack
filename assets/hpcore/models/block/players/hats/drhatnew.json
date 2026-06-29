@@ -1,10 +1,10 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "item/custom/dr1",
-		"1": "item/custom/dr2",
-		"2": "item/custom/dr3",
-		"particle": "item/custom/dr1"
+		"0": "hpcore:block/players/hats/dr1",
+		"1": "hpcore:block/players/hats/dr2",
+		"2": "hpcore:block/players/hats/dr3",
+		"particle": "hpcore:block/players/hats/dr1"
 	},
 	"elements": [
 		{

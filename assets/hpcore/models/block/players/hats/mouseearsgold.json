@@ -1,18 +1,18 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "item/custom/mk/texturemouseearsgold1",
-		"1": "item/custom/mk/texturemouseearsgold2",
-		"2": "item/custom/mk/texturemouseearsgold3",
-		"3": "item/custom/mk/texturemouseearsgold4",
-		"4": "item/custom/mk/texturemouseearsgold5",
-		"5": "item/custom/mk/texturemouseearsgold6",
-		"6": "item/custom/mk/texturemouseearsgold7",
-		"7": "item/custom/mk/texturemouseearsgold8",
-		"8": "item/custom/mk/texturemouseearsgold9",
-		"10": "item/custom/mk/texturemouseearsgold11",
-		"11": "item/custom/mk/texturemouseearsgold10",
-		"particle": "item/custom/mk/texturemouseearsgold1"
+		"0": "hpcore:block/players/hats/texturemouseearsgold1",
+		"1": "hpcore:block/players/hats/texturemouseearsgold2",
+		"2": "hpcore:block/players/hats/texturemouseearsgold3",
+		"3": "hpcore:block/players/hats/texturemouseearsgold4",
+		"4": "hpcore:block/players/hats/texturemouseearsgold5",
+		"5": "hpcore:block/players/hats/texturemouseearsgold6",
+		"6": "hpcore:block/players/hats/texturemouseearsgold7",
+		"7": "hpcore:block/players/hats/texturemouseearsgold8",
+		"8": "hpcore:block/players/hats/texturemouseearsgold9",
+		"10": "hpcore:block/players/hats/texturemouseearsgold11",
+		"11": "hpcore:block/players/hats/texturemouseearsgold10",
+		"particle": "hpcore:block/players/hats/texturemouseearsgold1"
 	},
 	"elements": [
 		{

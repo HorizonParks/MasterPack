@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"1": "item/custom/mk/texturepiratehat1",
-		"2": "item/custom/mk/texturepiratehat2"
+		"1": "hpcore:block/players/hats/texturepiratehat1",
+		"2": "hpcore:block/players/hats/texturepiratehat2"
 	},
 	"elements": [
 		{

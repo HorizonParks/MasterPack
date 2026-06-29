@@ -56,6 +56,7 @@
       { "threshold": 47, "model": { "type": "model", "model": "hpcore:block/players/magicbands/textured/grayglitter" } },
       { "threshold": 48, "model": { "type": "model", "model": "hpcore:block/players/magicbands/textured/monstersincmike" } },
       { "threshold": 49, "model": { "type": "model", "model": "hpcore:block/players/magicbands/textured/standingmickey" } },
+      { "threshold": 50, "model": { "type": "model", "model": "hpcore:block/players/magicbands/textured/mickeyballon" } },
 
 
       { "threshold": 5000, "model": { "type": "model", "model": "hpcore:block/players/magicbands/solids/navy" } },

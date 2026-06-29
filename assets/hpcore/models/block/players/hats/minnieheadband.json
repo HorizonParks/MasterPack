@@ -2,9 +2,9 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "item/custom/minnieheadbandtexture1",
-		"1": "item/custom/minnieheadbandtexture2",
-		"particle": "item/custom/minnieheadbandtexture1"
+		"0": "hpcore:block/players/hats/minnieheadbandtexture1",
+		"1": "hpcore:block/players/hats/minnieheadbandtexture2",
+		"particle": "hpcore:block/players/hats/minnieheadbandtexture1"
 	},
 	"elements": [
 		{

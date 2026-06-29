@@ -2,12 +2,12 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "item/custom/mk/texturejshat1",
-		"1": "item/custom/mk/texturejshat2",
-		"2": "item/custom/mk/texturejshat3",
-		"3": "item/custom/mk/texturejshat4",
-		"4": "item/custom/mk/texturejshat5",
-		"particle": "item/custom/mk/texturejshat1"
+		"0": "hpcore:block/players/hats/texturejshat1",
+		"1": "hpcore:block/players/hats/texturejshat2",
+		"2": "hpcore:block/players/hats/texturejshat3",
+		"3": "hpcore:block/players/hats/texturejshat4",
+		"4": "hpcore:block/players/hats/texturejshat5",
+		"particle": "hpcore:block/players/hats/texturejshat1"
 	},
 	"elements": [
 		{
