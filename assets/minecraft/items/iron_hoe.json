@@ -18,7 +18,14 @@
         { "threshold": 9, "model": { "type": "model", "model": "hpcore:block/transportation/monorails/red/monoraildoorred" } },
         { "threshold": 10, "model": { "type": "model", "model": "hpcore:block/transportation/monorails/silver/monoraildoorsilver" } },
         { "threshold": 11, "model": { "type": "model", "model": "hpcore:block/transportation/monorails/teal/monoraildoorteal" } },
-        { "threshold": 12, "model": { "type": "model", "model": "hpcore:block/transportation/monorails/yellow/monoraildooryellow" } }
+        { "threshold": 12, "model": { "type": "model", "model": "hpcore:block/transportation/monorails/yellow/monoraildooryellow" } },
+
+        { "threshold": 201, "model": { "type": "model", "model": "hpcore:block/parks/dhs/ridecars/galaxys_edge/sub/rotrvehicledoor" } },
+        { "threshold": 202, "model": { "type": "model", "model": "hpcore:block/parks/dhs/ridecars/galaxys_edge/sub/rotrvehicledroidhead" } },
+        { "threshold": 203, "model": { "type": "model", "model": "hpcore:block/parks/dhs/ridecars/galaxys_edge/sub/rotrvehicledroidnew" } },
+        { "threshold": 204, "model": { "type": "model", "model": "hpcore:block/parks/dhs/ridecars/sunset_boulevard/sub/totcardoor" } },
+
+        { "threshold": 401, "model": { "type": "model", "model": "hpcore:block/parks/mk/ridecars/fantasyland/sub/dumboarm" } }
     ]
   } 
 }
