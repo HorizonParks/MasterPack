@@ -14,7 +14,7 @@
       { "threshold": 5, "model": { "type": "model", "model": "hpcore:block/players/hats/furhat" } },
       { "threshold": 6, "model": { "type": "model", "model": "hpcore:block/players/hats/grad" } },
       { "threshold": 7, "model": { "type": "model", "model": "hpcore:block/players/hats/jacks" } },
-      { "threshold": 8, "model": { "type": "model", "model": "hpcore:block/players/hats/miniieheadband" } },
+      { "threshold": 8, "model": { "type": "model", "model": "hpcore:block/players/hats/minieheadband" } },
       { "threshold": 9, "model": { "type": "model", "model": "hpcore:block/players/hats/mouseears" } },
       { "threshold": 10, "model": { "type": "model", "model": "hpcore:block/players/hats/mouseearsgold" } },
       { "threshold": 11, "model": { "type": "model", "model": "hpcore:block/players/hats/piratehat" } },
