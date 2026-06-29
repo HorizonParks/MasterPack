@@ -35,16 +35,16 @@
       { "threshold": 517, "model": { "type": "model", "model": "hpcore:block/parks/mk/props/signs/tomorrowland/space/sm-standby-sign" } },
       { "threshold": 518, "model": { "type": "model", "model": "hpcore:block/parks/mk/props/signs/tomorrowland/space/sm-sign" } },
 
-      { "threshold": 601, "model": { "type": "model", "model": "hpcore:block/parks/dhs/props/signs/echo_lake/ijess/ijess_cutout" } },
-      { "threshold": 602, "model": { "type": "model", "model": "hpcore:block/parks/dhs/props/signs/echo_lake/ijess/ijess_cutoutsign" } },
-      { "threshold": 603, "model": { "type": "model", "model": "hpcore:block/parks/dhs/props/signs/echo_lake/ijess/ijess_logo" } },
-      { "threshold": 604, "model": { "type": "model", "model": "hpcore:block/parks/dhs/props/signs/echo_lake/st/stsign" } },
-      { "threshold": 605, "model": { "type": "model", "model": "hpcore:block/parks/dhs/props/signs/galaxys_edge/rotr/rotrstandby" } },
-      { "threshold": 606, "model": { "type": "model", "model": "hpcore:block/parks/dhs/props/signs/galaxys_edge/rotr/rotrunloadsign" } },
-      { "threshold": 607, "model": { "type": "model", "model": "hpcore:block/parks/dhs/props/signs/sunset_boulevard/tot/pictureifyoudare" } },
-      { "threshold": 608, "model": { "type": "model", "model": "hpcore:block/parks/dhs/props/signs/sunset_boulevard/tot/totentrancegatesign" } },
-      { "threshold": 609, "model": { "type": "model", "model": "hpcore:block/parks/dhs/props/signs/sunset_boulevard/tot/totentranceplaque" } },
-      { "threshold": 610, "model": { "type": "model", "model": "hpcore:block/parks/dhs/props/signs/sunset_boulevard/tot/totqueuesign" } }
+      { "threshold": 1001, "model": { "type": "model", "model": "hpcore:block/parks/dhs/props/signs/echo_lake/ijess/ijess_cutout" } },
+      { "threshold": 1002, "model": { "type": "model", "model": "hpcore:block/parks/dhs/props/signs/echo_lake/ijess/ijess_cutoutsign" } },
+      { "threshold": 1003, "model": { "type": "model", "model": "hpcore:block/parks/dhs/props/signs/echo_lake/ijess/ijess_logo" } },
+      { "threshold": 1004, "model": { "type": "model", "model": "hpcore:block/parks/dhs/props/signs/echo_lake/st/stsign" } },
+      { "threshold": 1005, "model": { "type": "model", "model": "hpcore:block/parks/dhs/props/signs/galaxys_edge/rotr/rotrstandby" } },
+      { "threshold": 1006, "model": { "type": "model", "model": "hpcore:block/parks/dhs/props/signs/galaxys_edge/rotr/rotrunloadsign" } },
+      { "threshold": 1007, "model": { "type": "model", "model": "hpcore:block/parks/dhs/props/signs/sunset_boulevard/tot/pictureifyoudare" } },
+      { "threshold": 1008, "model": { "type": "model", "model": "hpcore:block/parks/dhs/props/signs/sunset_boulevard/tot/totentrancegatesign" } },
+      { "threshold": 1009, "model": { "type": "model", "model": "hpcore:block/parks/dhs/props/signs/sunset_boulevard/tot/totentranceplaque" } },
+      { "threshold": 1010, "model": { "type": "model", "model": "hpcore:block/parks/dhs/props/signs/sunset_boulevard/tot/totqueuesign" } }
     ]
   } 
 }
