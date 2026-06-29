@@ -1,16 +1,16 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "item/custom/mk/white_face",
-		"1": "item/custom/mk/white_unibrow",
-		"2": "item/custom/mk/gold_nose",
-		"4": "item/custom/mk/eyes",
-		"5": "item/custom/mk/cheeks",
-		"7": "item/custom/mk/gold_smile",
-		"8": "item/custom/mk/gold_trim",
-		"9": "item/custom/mk/gold_roof",
-		"10": "item/custom/mk/gold_dot",
-		"particle": "item/custom/mk/white_face"
+		"0": "hpcore:block/parks/mk/props/rides/fantasyland/iasw/white_face",
+		"1": "hpcore:block/parks/mk/props/rides/fantasyland/iasw/white_unibrow",
+		"2": "hpcore:block/parks/mk/props/rides/fantasyland/iasw/gold_nose",
+		"4": "hpcore:block/parks/mk/props/rides/fantasyland/iasw/eyes",
+		"5": "hpcore:block/parks/mk/props/rides/fantasyland/iasw/cheeks",
+		"7": "hpcore:block/parks/mk/props/rides/fantasyland/iasw/gold_smile",
+		"8": "hpcore:block/parks/mk/props/rides/fantasyland/iasw/gold_trim",
+		"9": "hpcore:block/parks/mk/props/rides/fantasyland/iasw/gold_roof",
+		"10": "hpcore:block/parks/mk/props/rides/fantasyland/iasw/gold_dot",
+		"particle": "hpcore:block/parks/mk/props/rides/fantasyland/iasw/white_face"
 	},
 	"elements": [
 		{

@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "item/custom/mk/ppftealtent",
-		"particle": "item/custom/ppftealtent"
+		"0": "hpcore:block/parks/mk/props/rides/fantasyland/ppf/ppftealtent",
+		"particle": "hpcore:block/parks/mk/props/rides/fantasyland/ppf/ppftealtent"
 	},
 	"elements": [
 		{

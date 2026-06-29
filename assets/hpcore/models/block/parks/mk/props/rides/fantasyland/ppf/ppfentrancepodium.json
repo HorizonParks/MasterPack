@@ -2,9 +2,9 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "item/custom/mk/ppfpodium1",
-		"1": "item/custom/mk/ppfpodium2",
-		"particle": "item/custom/mk/ppfpodium1"
+		"0": "hpcore:block/parks/mk/props/rides/fantasyland/ppf/ppfpodium1",
+		"1": "hpcore:block/parks/mk/props/rides/fantasyland/ppf/ppfpodium2",
+		"particle": "hpcore:block/parks/mk/props/rides/fantasyland/ppf/ppfpodium1"
 	},
 	"elements": [
 		{

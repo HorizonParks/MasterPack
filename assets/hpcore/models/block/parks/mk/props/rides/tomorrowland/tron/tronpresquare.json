@@ -2,8 +2,8 @@
 	"format_version": "1.21.6",
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "item/screens/tronpresquare",
-		"particle": "item/screens/tronpresquare"
+		"0": "hpcore:block/parks/mk/props/rides/tomorrowland/tron/tronpresquare",
+		"particle": "hpcore:block/parks/mk/props/rides/tomorrowland/tron/tronpresquare"
 	},
 	"elements": [
 		{

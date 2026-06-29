@@ -1,14 +1,14 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "item/custom/jackhead2potc1",
-		"5": "item/custom/jackhead2potc6",
-		"6": "item/custom/jackhead3potc2",
-		"7": "item/custom/jackhead2potc3",
-		"8": "item/custom/jackhead2potc4",
-		"9": "item/custom/texturejackhead2potc5",
-		"10": "item/custom/jackhead2potc7",
-		"particle": "item/custom/jackhead2potc1"
+		"0": "hpcore:block/parks/mk/props/rides/adventureland/potc/jackhead2potc1",
+		"5": "hpcore:block/parks/mk/props/rides/adventureland/potc/jackhead2potc6",
+		"6": "hpcore:block/parks/mk/props/rides/adventureland/potc/jackhead3potc2",
+		"7": "hpcore:block/parks/mk/props/rides/adventureland/potc/jackhead2potc3",
+		"8": "hpcore:block/parks/mk/props/rides/adventureland/potc/jackhead2potc4",
+		"9": "hpcore:block/parks/mk/props/rides/adventureland/potc/texturejackhead2potc5",
+		"10": "hpcore:block/parks/mk/props/rides/adventureland/potc/jackhead2potc7",
+		"particle": "hpcore:block/parks/mk/props/rides/adventureland/potc/jackhead2potc1"
 	},
 	"elements": [
 		{

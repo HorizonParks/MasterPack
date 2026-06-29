@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Johnny",
 	"textures": {
-		"0": "item/custom/aerialarm",
-		"particle": "item/custom/aerialarm"
+		"0": "hpcore:block/parks/mk/props/rides/fantasyland/jotlm/aerialarm",
+		"particle": "hpcore:block/parks/mk/props/rides/fantasyland/jotlm/aerialarm"
 	},
 	"elements": [
 		{

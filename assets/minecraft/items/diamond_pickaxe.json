@@ -20,10 +20,9 @@
       { "threshold": 11, "model": { "type": "model", "model": "hpcore:block/players/hats/piratehat" } },
       { "threshold": 12, "model": { "type": "model", "model": "hpcore:block/players/hats/reddapperdanhat" } },
       { "threshold": 13, "model": { "type": "model", "model": "hpcore:block/players/hats/santamickeyhat" } },
-      { "threshold": 14, "model": { "type": "model", "model": "hpcore:block/players/hats/spainairdpotc" } },
-      { "threshold": 15, "model": { "type": "model", "model": "hpcore:block/players/hats/sunglasses" } },
-      { "threshold": 16, "model": { "type": "model", "model": "hpcore:block/players/hats/tie-blue" } },
-      { "threshold": 17, "model": { "type": "model", "model": "hpcore:block/players/hats/drhatnew" } }
+      { "threshold": 14, "model": { "type": "model", "model": "hpcore:block/players/hats/sunglasses" } },
+      { "threshold": 15, "model": { "type": "model", "model": "hpcore:block/players/hats/tie-blue" } },
+      { "threshold": 16, "model": { "type": "model", "model": "hpcore:block/players/hats/drhatnew" } }
     ]
   } 
 }

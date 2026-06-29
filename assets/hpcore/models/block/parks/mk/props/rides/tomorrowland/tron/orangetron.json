@@ -4,7 +4,7 @@
 	"ambientocclusion": false,
 	"texture_size": [128, 128],
 	"textures": {
-		"1": "item/custom/troncarorange"
+		"1": "hpcore:block/parks/mk/props/rides/tomorrowland/tron/troncarorange"
 	},
 	"elements": [
 		{

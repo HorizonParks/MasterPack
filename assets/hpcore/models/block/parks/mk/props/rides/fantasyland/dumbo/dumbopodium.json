@@ -2,7 +2,7 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [64, 64],
 	"textures": {
-		"1": "item/custom/mk/dumbopodium"
+		"1": "hpcore:block/parks/mk/props/rides/fantasyland/dumbo/dumbopodium"
 	},
 	"elements": [
 		{

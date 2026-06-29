@@ -1,22 +1,22 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"3": "item/custom/mk/texturehandle1",
-		"4": "item/custom/mk/texturehandle2",
-		"5": "item/custom/mk/texturehandle3",
-		"6": "item/custom/mk/texturehandle4",
-		"9": "item/custom/mk/textureblade2",
-		"10": "item/custom/mk/texturehandle5",
-		"11": "item/custom/mk/texturehandle6",
-		"12": "item/custom/mk/texturehandle7",
-		"14": "item/custom/mk/textureblade1",
-		"15": "item/custom/mk/textureblade3",
-		"16": "item/custom/mk/textureblade4",
-		"17": "item/custom/mk/textureblade5",
-		"18": "item/custom/mk/texturehandle9",
-		"19": "item/custom/mk/texturehandle10",
-		"20": "item/custom/mk/texturehandle11",
-		"particle": "item/custom/mk/textureblade2"
+		"3": "hpcore:block/parks/mk/props/rides/fantasyland/pcrc/texturehandle1",
+		"4": "hpcore:block/parks/mk/props/rides/fantasyland/pcrc/texturehandle2",
+		"5": "hpcore:block/parks/mk/props/rides/fantasyland/pcrc/texturehandle3",
+		"6": "hpcore:block/parks/mk/props/rides/fantasyland/pcrc/texturehandle4",
+		"9": "hpcore:block/parks/mk/props/rides/fantasyland/pcrc/textureblade2",
+		"10": "hpcore:block/parks/mk/props/rides/fantasyland/pcrc/texturehandle5",
+		"11": "hpcore:block/parks/mk/props/rides/fantasyland/pcrc/texturehandle6",
+		"12": "hpcore:block/parks/mk/props/rides/fantasyland/pcrc/texturehandle7",
+		"14": "hpcore:block/parks/mk/props/rides/fantasyland/pcrc/textureblade1",
+		"15": "hpcore:block/parks/mk/props/rides/fantasyland/pcrc/textureblade3",
+		"16": "hpcore:block/parks/mk/props/rides/fantasyland/pcrc/textureblade4",
+		"17": "hpcore:block/parks/mk/props/rides/fantasyland/pcrc/textureblade5",
+		"18": "hpcore:block/parks/mk/props/rides/fantasyland/pcrc/texturehandle9",
+		"19": "hpcore:block/parks/mk/props/rides/fantasyland/pcrc/texturehandle10",
+		"20": "hpcore:block/parks/mk/props/rides/fantasyland/pcrc/texturehandle11",
+		"particle": "hpcore:block/parks/mk/props/rides/fantasyland/pcrc/textureblade2"
 	},
 	"elements": [
 		{

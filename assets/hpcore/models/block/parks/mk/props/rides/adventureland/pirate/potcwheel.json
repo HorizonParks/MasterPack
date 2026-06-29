@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "item/custom/potcwheel",
-		"particle": "item/custom/potcwheel"
+		"0": "hpcore:block/parks/mk/props/rides/adventureland/potc/potcwheel",
+		"particle": "hpcore:block/parks/mk/props/rides/adventureland/potc/potcwheel"
 	},
 	"elements": [
 		{

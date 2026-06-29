@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "item/custom/mk/organghosts",
-		"particle": "item/custom/mk/organghosts"
+		"0": "hpcore:block/parks/mk/props/rides/liberty_square/hm/organghosts",
+		"particle": "hpcore:block/parks/mk/props/rides/liberty_square/hm/organghosts"
 	},
 	"elements": [
 		{

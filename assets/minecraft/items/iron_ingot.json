@@ -16,12 +16,35 @@
       { "threshold": 7, "model": { "type": "model", "model": "hpcore:block/parks/epcot/props/signs/world_celebration/center/creations_shop_sign" } },
       { "threshold": 8, "model": { "type": "model", "model": "hpcore:block/parks/epcot/props/signs/world_celebration/center/creations_shop_sign2" } },
 
-      { "threshold": 9, "model": { "type": "model", "model": "hpcore:block/parks/mk/props/signs/fantasyland/ppf/ppfstandby" } },
-      { "threshold": 10, "model": { "type": "model", "model": "hpcore:block/parks/mk/props/signs/fantasyland/sdmt/sdmtsign" } },
-      { "threshold": 11, "model": { "type": "model", "model": "hpcore:block/parks/mk/props/signs/frontierland/flrrsign" } },
-      { "threshold": 11, "model": { "type": "model", "model": "hpcore:block/parks/mk/props/signs/frontierland/frontier-trading-post-sign" } },
-      { "threshold": 12, "model": { "type": "model", "model": "hpcore:block/parks/mk/props/signs/main_street/entrance/mk-sign" } },
-      { "threshold": 13, "model": { "type": "model", "model": "hpcore:block/parks/mk/props/signs/tomorrowland/tron/tron-sign" } }
+      { "threshold": 501, "model": { "type": "model", "model": "hpcore:block/parks/mk/props/signs/fantasyland/ppf/ppfstandby" } },
+      { "threshold": 502, "model": { "type": "model", "model": "hpcore:block/parks/mk/props/signs/fantasyland/ppf/ppflightning" } },
+      { "threshold": 503, "model": { "type": "model", "model": "hpcore:block/parks/mk/props/signs/fantasyland/sdmt/sdmtsign" } },
+      { "threshold": 504, "model": { "type": "model", "model": "hpcore:block/parks/mk/props/signs/frontierland/flrrsign" } },
+      { "threshold": 505, "model": { "type": "model", "model": "hpcore:block/parks/mk/props/signs/frontierland/frontier-trading-post-sign" } },
+      { "threshold": 506, "model": { "type": "model", "model": "hpcore:block/parks/mk/props/signs/main_street/entrance/mk-sign" } },
+      { "threshold": 507, "model": { "type": "model", "model": "hpcore:block/parks/mk/props/signs/tomorrowland/tron/tron-sign" } },
+      { "threshold": 508, "model": { "type": "model", "model": "hpcore:block/parks/mk/props/signs/adventureland/potc/piratessign" } },
+      { "threshold": 509, "model": { "type": "model", "model": "hpcore:block/parks/mk/props/signs/fantasyland/dumbo/dumbostandby" } },
+      { "threshold": 510, "model": { "type": "model", "model": "hpcore:block/parks/mk/props/signs/fantasyland/dumbo/dumbolightning" } },
+      { "threshold": 511, "model": { "type": "model", "model": "hpcore:block/parks/mk/props/signs/frontierland/btm/btmfastsign" } },
+      { "threshold": 512, "model": { "type": "model", "model": "hpcore:block/parks/mk/props/signs/frontierland/btm/btmwaitsign" } },
+      { "threshold": 513, "model": { "type": "model", "model": "hpcore:block/parks/mk/props/signs/frontierland/tba/tbafrontsign" } },
+      { "threshold": 514, "model": { "type": "model", "model": "hpcore:block/parks/mk/props/signs/frontierland/tba/tbalightning" } },
+      { "threshold": 515, "model": { "type": "model", "model": "hpcore:block/parks/mk/props/signs/frontierland/tba/tbastandby" } },
+      { "threshold": 516, "model": { "type": "model", "model": "hpcore:block/parks/mk/props/signs/tomorrowland/space/sm-lightning-sign" } },
+      { "threshold": 517, "model": { "type": "model", "model": "hpcore:block/parks/mk/props/signs/tomorrowland/space/sm-standby-sign" } },
+      { "threshold": 518, "model": { "type": "model", "model": "hpcore:block/parks/mk/props/signs/tomorrowland/space/sm-sign" } },
+
+      { "threshold": 601, "model": { "type": "model", "model": "hpcore:block/parks/dhs/props/signs/echo_lake/ijess/ijess_cutout" } },
+      { "threshold": 602, "model": { "type": "model", "model": "hpcore:block/parks/dhs/props/signs/echo_lake/ijess/ijess_cutoutsign" } },
+      { "threshold": 603, "model": { "type": "model", "model": "hpcore:block/parks/dhs/props/signs/echo_lake/ijess/ijess_logo" } },
+      { "threshold": 604, "model": { "type": "model", "model": "hpcore:block/parks/dhs/props/signs/echo_lake/st/stsign" } },
+      { "threshold": 605, "model": { "type": "model", "model": "hpcore:block/parks/dhs/props/signs/galaxys_edge/rotr/rotrstandby" } },
+      { "threshold": 606, "model": { "type": "model", "model": "hpcore:block/parks/dhs/props/signs/galaxys_edge/rotr/rotrunloadsign" } },
+      { "threshold": 607, "model": { "type": "model", "model": "hpcore:block/parks/dhs/props/signs/sunset_boulevard/tot/pictureifyoudare" } },
+      { "threshold": 608, "model": { "type": "model", "model": "hpcore:block/parks/dhs/props/signs/sunset_boulevard/tot/totentrancegatesign" } },
+      { "threshold": 609, "model": { "type": "model", "model": "hpcore:block/parks/dhs/props/signs/sunset_boulevard/tot/totentranceplaque" } },
+      { "threshold": 610, "model": { "type": "model", "model": "hpcore:block/parks/dhs/props/signs/sunset_boulevard/tot/totqueuesign" } }
     ]
   } 
 }
