@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [8, 8],
 	"textures": {
-		"2": "hpcore:item/parks/dhs/props/rides/galaxys_edge/rotr/rotrwallanimated",
-		"particle": "hpcore:item/parks/dhs/props/rides/galaxys_edge/rotr/rotrwallanimated"
+		"2": "hpcore:item/parks/dhs/props/rides/galaxys_edge/rotr/rotrwallanimatednew",
+		"particle": "hpcore:item/parks/dhs/props/rides/galaxys_edge/rotr/rotrwallwhitenew"
 	},
 	"elements": [
 		{
@@ -26,8 +26,8 @@
 			"scale": [1.75, 1.75, 1]
 		},
 		"head": {
-			"translation": [7, 0, 0],
-			"scale": [1.63672, 1.79492, 1]
+			"translation": [9.25, -21.5, 6.5],
+			"scale": [2.1, 2.5, 0.99]
 		}
 	}
 }
