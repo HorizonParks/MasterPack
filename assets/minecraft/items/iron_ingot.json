@@ -33,7 +33,7 @@
       { "threshold": 515, "model": { "type": "model", "model": "hpcore:block/parks/mk/props/signs/frontierland/tba/tbastandby" } },
       { "threshold": 516, "model": { "type": "model", "model": "hpcore:block/parks/mk/props/signs/tomorrowland/space/sm-lightning-sign" } },
       { "threshold": 517, "model": { "type": "model", "model": "hpcore:block/parks/mk/props/signs/tomorrowland/space/sm-standby-sign" } },
-      
+      { "threshold": 518, "model": { "type": "model", "model": "hpcore:block/parks/mk/props/signs/tomorrowland/space/sm-sign" } },
 
       { "threshold": 1001, "model": { "type": "model", "model": "hpcore:block/parks/dhs/props/signs/echo_lake/ijess/ijess_cutout" } },
       { "threshold": 1002, "model": { "type": "model", "model": "hpcore:block/parks/dhs/props/signs/echo_lake/ijess/ijess_cutoutsign" } },

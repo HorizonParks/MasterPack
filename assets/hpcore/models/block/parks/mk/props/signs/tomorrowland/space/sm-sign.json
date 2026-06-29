@@ -1,9 +1,9 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "item/bucket",
+		"0": "block/light_gray_concrete",
 		"1": "hpcore:block/parks/mk/props/signs/tomorrowland/space/space-mountain-sign",
-		"particle": "item/bucket"
+		"particle": "block/light_gray_concrete"
 	},
 	"elements": [
 		{
