@@ -14,7 +14,14 @@
       { "threshold": 5, "model": { "type": "model", "model": "hpcore:block/parks/epcot/props/signs/world_celebration/center/connections_eatery_sign" } },
       { "threshold": 6, "model": { "type": "model", "model": "hpcore:block/parks/epcot/props/signs/world_celebration/center/connections_eatery_sign2" } },
       { "threshold": 7, "model": { "type": "model", "model": "hpcore:block/parks/epcot/props/signs/world_celebration/center/creations_shop_sign" } },
-      { "threshold": 8, "model": { "type": "model", "model": "hpcore:block/parks/epcot/props/signs/world_celebration/center/creations_shop_sign2" } }
+      { "threshold": 8, "model": { "type": "model", "model": "hpcore:block/parks/epcot/props/signs/world_celebration/center/creations_shop_sign2" } },
+
+      { "threshold": 9, "model": { "type": "model", "model": "hpcore:block/parks/mk/props/signs/fantasyland/ppf/ppfstandby" } },
+      { "threshold": 10, "model": { "type": "model", "model": "hpcore:block/parks/mk/props/signs/fantasyland/sdmt/sdmtsign" } },
+      { "threshold": 11, "model": { "type": "model", "model": "hpcore:block/parks/mk/props/signs/frontierland/flrrsign" } },
+      { "threshold": 11, "model": { "type": "model", "model": "hpcore:block/parks/mk/props/signs/frontierland/frontier-trading-post-sign" } },
+      { "threshold": 12, "model": { "type": "model", "model": "hpcore:block/parks/mk/props/signs/main_street/entrance/mk-sign" } },
+      { "threshold": 13, "model": { "type": "model", "model": "hpcore:block/parks/mk/props/signs/tomorrowland/tron/tron-sign" } }
     ]
   } 
 }
