@@ -43,20 +43,20 @@
       { "threshold": 30, "model": { "type": "model", "model": "hpcore:block/parks/mk/props/rides/frontierland/tba/tbacar" } },
       { "threshold": 31, "model": { "type": "model", "model": "hpcore:block/parks/mk/props/rides/frontierland/tba/tbawheel" } },
       { "threshold": 32, "model": { "type": "model", "model": "hpcore:block/parks/mk/props/rides/frontierland/tba/tianacrown" } },
-      { "threshold": 33, "model": { "type": "model", "model": "hpcore:block/parks/mk/props/rides/frontierland/tba/tianamodel" } },
+      
 
-      { "threshold": 34, "model": { "type": "model", "model": "hpcore:block/parks/mk/props/rides/liberty_sqaure/hm/candelabra" } },
-      { "threshold": 35, "model": { "type": "model", "model": "hpcore:block/parks/mk/props/rides/liberty_sqaure/hm/hmpiano" } },
-      { "threshold": 36, "model": { "type": "model", "model": "hpcore:block/parks/mk/props/rides/liberty_sqaure/hm/hmroof" } },
-      { "threshold": 37, "model": { "type": "model", "model": "hpcore:block/parks/mk/props/rides/liberty_sqaure/hm/hmwalkway" } },
-      { "threshold": 38, "model": { "type": "model", "model": "hpcore:block/parks/mk/props/rides/liberty_sqaure/hm/orangeghosts" } },
+      { "threshold": 33, "model": { "type": "model", "model": "hpcore:block/parks/mk/props/rides/liberty_sqaure/hm/candelabra" } },
+      { "threshold": 34, "model": { "type": "model", "model": "hpcore:block/parks/mk/props/rides/liberty_sqaure/hm/hmpiano" } },
+      { "threshold": 35, "model": { "type": "model", "model": "hpcore:block/parks/mk/props/rides/liberty_sqaure/hm/hmroof" } },
+      { "threshold": 36, "model": { "type": "model", "model": "hpcore:block/parks/mk/props/rides/liberty_sqaure/hm/hmwalkway" } },
+      { "threshold": 37, "model": { "type": "model", "model": "hpcore:block/parks/mk/props/rides/liberty_sqaure/hm/orangeghosts" } },
 
-      { "threshold": 39, "model": { "type": "model", "model": "hpcore:block/parks/mk/props/rides/tomorrowland/tron/orangetron" } },
-      { "threshold": 40, "model": { "type": "model", "model": "hpcore:block/parks/mk/props/rides/tomorrowland/tron/tronarrow" } },
-      { "threshold": 41, "model": { "type": "model", "model": "hpcore:block/parks/mk/props/rides/tomorrowland/tron/tronpresquare" } },
-      { "threshold": 42, "model": { "type": "model", "model": "hpcore:block/parks/mk/props/rides/tomorrowland/tron/tronprestart" } },
-      { "threshold": 43, "model": { "type": "model", "model": "hpcore:block/parks/mk/props/rides/tomorrowland/tron/tronstationarrow" } },
-      { "threshold": 44, "model": { "type": "model", "model": "hpcore:block/parks/mk/props/rides/tomorrowland/tron/tronstationarrowstill" } },
+      { "threshold": 38, "model": { "type": "model", "model": "hpcore:block/parks/mk/props/rides/tomorrowland/tron/orangetron" } },
+      { "threshold": 39, "model": { "type": "model", "model": "hpcore:block/parks/mk/props/rides/tomorrowland/tron/tronarrow" } },
+      { "threshold": 40, "model": { "type": "model", "model": "hpcore:block/parks/mk/props/rides/tomorrowland/tron/tronpresquare" } },
+      { "threshold": 41, "model": { "type": "model", "model": "hpcore:block/parks/mk/props/rides/tomorrowland/tron/tronprestart" } },
+      { "threshold": 42, "model": { "type": "model", "model": "hpcore:block/parks/mk/props/rides/tomorrowland/tron/tronstationarrow" } },
+      { "threshold": 43, "model": { "type": "model", "model": "hpcore:block/parks/mk/props/rides/tomorrowland/tron/tronstationarrowstill" } },
 
 
 
