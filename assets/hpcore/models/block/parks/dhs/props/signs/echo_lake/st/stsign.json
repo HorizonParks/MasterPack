@@ -2,11 +2,11 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "item/custom/stsign1new",
-		"1": "item/custom/stsign2",
-		"2": "item/custom/stsign3new",
-		"3": "item/custom/stsign4",
-		"particle": "item/custom/stsign1new"
+		"0": "hpcore:block/parks/dhs/props/shows/echo_lake/st/stsign1new",
+		"1": "hpcore:block/parks/dhs/props/shows/echo_lake/st/stsign2",
+		"2": "hpcore:block/parks/dhs/props/shows/echo_lake/st/stsign3new",
+		"3": "hpcore:block/parks/dhs/props/shows/echo_lake/st/stsign4",
+		"particle": "hpcore:block/parks/dhs/props/shows/echo_lake/st/stsign1new"
 	},
 	"elements": [
 		{

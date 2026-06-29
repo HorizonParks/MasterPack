@@ -1,9 +1,9 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"2": "hpcore:item/parks/dhs/props/signs/sunset_boulevard/tot/totentranceplaque3new",
-		"3": "hpcore:item/parks/dhs/props/signs/sunset_boulevard/tot/totentranceplaque2new",
-		"5": "hpcore:item/parks/dhs/props/signs/sunset_boulevard/tot/totentranceplaque1new"
+		"2": "hpcore:block/parks/dhs/props/signs/sunset_boulevard/tot/totentranceplaque3new",
+		"3": "hpcore:block/parks/dhs/props/signs/sunset_boulevard/tot/totentranceplaque2new",
+		"5": "hpcore:block/parks/dhs/props/signs/sunset_boulevard/tot/totentranceplaque1new"
 	},
 	"elements": [
 		{

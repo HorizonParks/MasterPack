@@ -1,9 +1,9 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "hpcore:item/parks/dhs/props/signs/galaxys_edge/rotr/rotrunloadsign1",
-		"1": "hpcore:item/parks/dhs/props/signs/galaxys_edge/rotr/rotrunloadsign2",
-		"particle": "hpcore:item/parks/dhs/props/signs/galaxys_edge/rotr/rotrunloadsign1"
+		"0": "hpcore:block/parks/dhs/props/signs/galaxys_edge/rotr/rotrunloadsign1",
+		"1": "hpcore:block/parks/dhs/props/signs/galaxys_edge/rotr/rotrunloadsign2",
+		"particle": "hpcore:block/parks/dhs/props/signs/galaxys_edge/rotr/rotrunloadsign1"
 	},
 	"elements": [
 		{

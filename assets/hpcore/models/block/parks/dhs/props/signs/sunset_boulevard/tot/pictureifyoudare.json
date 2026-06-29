@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "hpcore:item/parks/dhs/props/signs/sunset_boulevard/tot/pictureifyoudaresign",
-		"particle": "hpcore:item/parks/dhs/props/signs/sunset_boulevard/tot/pictureifyoudaresign"
+		"0": "hpcore:block/parks/dhs/props/signs/sunset_boulevard/tot/pictureifyoudaresign",
+		"particle": "hpcore:block/parks/dhs/props/signs/sunset_boulevard/tot/pictureifyoudaresign"
 	},
 	"elements": [
 		{

@@ -2,9 +2,9 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [64, 64],
 	"textures": {
-		"1": "hpcore:item/parks/dhs/props/signs/sunset_boulevard/tot/totentrancegatesign1",
-		"2": "hpcore:item/parks/dhs/props/signs/sunset_boulevard/tot/totentrancegatesign2",
-		"particle": "hpcore:item/parks/dhs/props/signs/sunset_boulevard/tot/totentrancegatesign1"
+		"1": "hpcore:block/parks/dhs/props/signs/sunset_boulevard/tot/totentrancegatesign1",
+		"2": "hpcore:block/parks/dhs/props/signs/sunset_boulevard/tot/totentrancegatesign2",
+		"particle": "hpcore:block/parks/dhs/props/signs/sunset_boulevard/tot/totentrancegatesign1"
 	},
 	"elements": [
 		{
