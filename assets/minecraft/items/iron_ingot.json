@@ -33,7 +33,7 @@
       { "threshold": 515, "model": { "type": "model", "model": "hpcore:block/parks/mk/props/signs/frontierland/tba/tbastandby" } },
       { "threshold": 516, "model": { "type": "model", "model": "hpcore:block/parks/mk/props/signs/tomorrowland/space/sm-lightning-sign" } },
       { "threshold": 517, "model": { "type": "model", "model": "hpcore:block/parks/mk/props/signs/tomorrowland/space/sm-standby-sign" } },
-      { "threshold": 518, "model": { "type": "model", "model": "hpcore:block/parks/mk/props/signs/tomorrowland/space/sm-sign" } },
+      
 
       { "threshold": 1001, "model": { "type": "model", "model": "hpcore:block/parks/dhs/props/signs/echo_lake/ijess/ijess_cutout" } },
       { "threshold": 1002, "model": { "type": "model", "model": "hpcore:block/parks/dhs/props/signs/echo_lake/ijess/ijess_cutoutsign" } },
@@ -44,7 +44,10 @@
       { "threshold": 1007, "model": { "type": "model", "model": "hpcore:block/parks/dhs/props/signs/sunset_boulevard/tot/pictureifyoudare" } },
       { "threshold": 1008, "model": { "type": "model", "model": "hpcore:block/parks/dhs/props/signs/sunset_boulevard/tot/totentrancegatesign" } },
       { "threshold": 1009, "model": { "type": "model", "model": "hpcore:block/parks/dhs/props/signs/sunset_boulevard/tot/totentranceplaque" } },
-      { "threshold": 1010, "model": { "type": "model", "model": "hpcore:block/parks/dhs/props/signs/sunset_boulevard/tot/totqueuesign" } }
+      { "threshold": 1010, "model": { "type": "model", "model": "hpcore:block/parks/dhs/props/signs/sunset_boulevard/tot/totqueuesign" } },
+
+
+      { "threshold": 2001, "model": { "type": "model", "model": "hpcore:block/props/signs/exitsign" } }
     ]
   } 
 }
