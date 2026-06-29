@@ -291,15 +291,28 @@
 			"rotation": [68, -180, 0],
 			"translation": [-6, -8.75, 8.5]
 		},
+		"firstperson_righthand": {
+			"translation": [80, 0, 0]
+		},
+		"firstperson_lefthand": {
+			"translation": [80, 0, 0]
+		},
 		"gui": {
 			"rotation": [0, 148, 0],
 			"translation": [0, -1, 0]
+		},
+		"head": {
+			"translation": [0, 11, 0]
+		},
+		"on_shelf": {
+			"rotation": [0, 180, 0]
 		}
 	},
 	"groups": [
 		{
 			"name": "group",
 			"origin": [8, 8, 8],
+			"scope": 0,
 			"color": 0,
 			"children": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21]
 		}
