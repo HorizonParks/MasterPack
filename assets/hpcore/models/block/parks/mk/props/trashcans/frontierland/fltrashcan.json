@@ -2,9 +2,9 @@
 	"format_version": "1.21.6",
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "mcicore:item/wdw/mk/trashcans/wdwfltrashcan",
-		"1": "mcicore:item/wdw/mk/trashcans/wdwfltrashcandoor",
-		"particle": "mcicore:item/wdw/mk/trashcans/wdwfltrashcan"
+		"0": "hpcore:block/parks/mk/props/trashcans/frontierland/wdwfltrashcan",
+		"1": "hpcore:block/parks/mk/props/trashcans/frontierland/wdwfltrashcandoor",
+		"particle": "hpcore:block/parks/mk/props/trashcans/frontierland/wdwfltrashcan"
 	},
 	"elements": [
 		{

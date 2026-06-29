@@ -1,9 +1,9 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "item/custom/mk/frontier-trading-post-sign",
+		"0": "hpcore:block/parks/mk/props/signs/frontierland/frontier-trading-post-sign",
 		"1": "block/dark_oak_planks",
-		"particle": "item/custom/mk/frontier-trading-post-sign"
+		"particle": "hpcore:block/parks/mk/props/signs/frontierland/frontier-trading-post-sign"
 	},
 	"elements": [
 		{

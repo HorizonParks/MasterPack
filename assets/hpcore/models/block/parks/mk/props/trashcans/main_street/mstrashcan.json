@@ -2,9 +2,9 @@
 	"format_version": "1.21.6",
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "hpcore:block/parks/mk/props/trashcans/adventureland/wdwaltrashcan",
-		"1": "hpcore:block/parks/mk/props/trashcans/adventureland/wdwaltrashcandoor",
-		"particle": "hpcore:block/parks/mk/props/trashcans/adventureland/wdwaltrashcan"
+		"0": "hpcore:block/parks/mk/props/trashcans/main_street/wdwfltrashcan",
+		"1": "hpcore:block/parks/mk/props/trashcans/main_street/wdwfltrashcandoor",
+		"particle": "hpcore:block/parks/mk/props/trashcans/main_street/wdwfltrashcan"
 	},
 	"elements": [
 		{

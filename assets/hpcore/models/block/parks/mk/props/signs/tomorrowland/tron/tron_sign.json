@@ -2,10 +2,10 @@
 	"format_version": "1.21.6",
 	"credit": "made by bellymustache for horizonparks",
 	"textures": {
-		"3": "item/custom/mk/tl/tron_small_text",
-		"4": "item/custom/mk/tl/tron_full",
-		"6": "item/custom/mk/tl/tron_smaller_text",
-		"7": "item/custom/mk/tl/tron_stand"
+		"3": "hpcore:block/parks/mk/props/signs/tomorrowland/tron/tron_small_text",
+		"4": "hpcore:block/parks/mk/props/signs/tomorrowland/tron/tron_full",
+		"6": "hpcore:block/parks/mk/props/signs/tomorrowland/tron/tron_smaller_text",
+		"7": "hpcore:block/parks/mk/props/signs/tomorrowland/tron/tron_stand"
 	},
 	"elements": [
 		{

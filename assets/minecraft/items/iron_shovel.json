@@ -10,7 +10,12 @@
       { "threshold": 1, "model": { "type": "model", "model": "hpcore:block/parks/epcot/props/trashcans/main_entrance/metrashcan" } },
       { "threshold": 2, "model": { "type": "model", "model": "hpcore:block/parks/epcot/props/trashcans/world_celebration/wctrashcan" } },
       { "threshold": 3, "model": { "type": "model", "model": "hpcore:block/parks/epcot/props/trashcans/world_discovery/wdtrashcan" } },
-      { "threshold": 4, "model": { "type": "model", "model": "hpcore:block/parks/epcot/props/trashcans/world_nature/wntrashcan" } }
+      { "threshold": 4, "model": { "type": "model", "model": "hpcore:block/parks/epcot/props/trashcans/world_nature/wntrashcan" } },
+
+      { "threshold": 101, "model": { "type": "model", "model": "hpcore:block/parks/mk/props/trashcans/adventureland/altrashcan" } },
+      { "threshold": 102, "model": { "type": "model", "model": "hpcore:block/parks/mk/props/trashcans/adventureland/dumbotrashcan" } },
+      { "threshold": 103, "model": { "type": "model", "model": "hpcore:block/parks/mk/props/trashcans/adventureland/mstrashcan" } },
+      { "threshold": 104, "model": { "type": "model", "model": "hpcore:block/parks/mk/props/trashcans/adventureland/tmrlndtrashcan" } }
     ]
   } 
 }
