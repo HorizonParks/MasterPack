@@ -3,7 +3,7 @@
 	"textures": {
 		"0": "block/barrel_side",
 		"1": "block/cave_vines",
-		"4": "item/custom/nature/chain",
+		"4": "hpcore:block/props/misc/nature/chain",
 		"5": "block/brown_wool",
 		"particle": "block/barrel_side"
 	},

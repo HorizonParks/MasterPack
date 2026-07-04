@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"2": "item/custom/generic/controlpanelanimate",
-		"particle": "item/custom/generic/controlpanelanimate"
+		"2": "hpcore:block/props/rides/controlpanelanimate",
+		"particle": "hpcore:block/props/rides/controlpanelanimate"
 	},
 	"elements": [
 		{

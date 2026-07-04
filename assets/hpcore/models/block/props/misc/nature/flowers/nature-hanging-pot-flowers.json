@@ -3,8 +3,8 @@
 	"texture_size": [32, 32],
 	"textures": {
 		"0": "block/barrel_side",
-		"3": "item/custom/nature/flowers",
-		"4": "item/custom/nature/chain",
+		"3": "hpcore:block/props/misc/nature/flowers",
+		"4": "hpcore:block/props/misc/nature/chain",
 		"5": "block/brown_wool",
 		"particle": "block/barrel_side"
 	},

@@ -1,10 +1,10 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "item/custom/bicycle",
-		"1": "item/custom/bicyclewheel",
-		"2": "item/custom/bicyclehandles",
-		"particle": "item/custom/bicycle"
+		"0": "hpcore:block/props/misc/vehicles/bikes/bicyclecyan",
+		"1": "hpcore:block/props/misc/vehicles/bikes/bicyclewheelcyan",
+		"2": "hpcore:block/props/misc/vehicles/bikes/bicyclehandlescyan",
+		"particle": "hpcore:block/props/misc/vehicles/bikes/bicyclecyan"
 	},
 	"elements": [
 		{
