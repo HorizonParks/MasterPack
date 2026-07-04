@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "hpcore:block/props/arms/armtone6",
-		"particle": "hpcore:block/props/arms/armtone6"
+		"0": "hpcore:block/props/misc/arms/armtone6",
+		"particle": "hpcore:block/props/misc/arms/armtone6"
 	},
 	"elements": [
 		{

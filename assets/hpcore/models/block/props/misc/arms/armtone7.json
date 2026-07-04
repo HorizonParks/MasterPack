@@ -2,8 +2,8 @@
 	"format_version": "1.21.6",
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "hpcore:block/props/arms/armtone7",
-		"particle": "hpcore:block/props/arms/armtone7"
+		"0": "hpcore:block/props/misc/arms/armtone7",
+		"particle": "hpcore:block/props/misc/arms/armtone7"
 	},
 	"elements": [
 		{

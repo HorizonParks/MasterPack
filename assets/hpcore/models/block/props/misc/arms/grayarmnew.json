@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "hpcore:block/props/arms/grayarmtexturenew",
-		"particle": "hpcore:block/props/arms/grayarmtexturenew"
+		"0": "hpcore:block/props/misc/arms/grayarmtexturenew",
+		"particle": "hpcore:block/props/misc/arms/grayarmtexturenew"
 	},
 	"elements": [
 		{
