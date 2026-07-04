@@ -36,4 +36,4 @@
       { "threshold": 27, "model": { "type": "model", "model": "hpcore:block/players/food/salmon" } }
     ]
   } 
-}
+} 
