@@ -2,8 +2,8 @@
 	"format_version": "1.21.11",
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "hpcore:item/players/food/mickeyicebar",
-		"particle": "hpcore:item/players/food/mickeyicebar"
+		"0": "hpcore:block/players/food/mickeyicebar",
+		"particle": "hpcore:block/players/food/mickeyicebar"
 	},
 	"elements": [
 		{

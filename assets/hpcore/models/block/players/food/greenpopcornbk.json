@@ -3,7 +3,7 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [64, 64],
 	"textures": {
-		"2": "hpcore:item/players/food/greenpopcornbk"
+		"2": "hpcore:block/players/food/greenpopcornbk"
 	},
 	"elements": [
 		{

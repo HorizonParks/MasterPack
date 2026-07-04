@@ -1,14 +1,14 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "hpcore:item/players/food/texturedw1",
-		"1": "hpcore:item/players/food/texturedw2",
-		"2": "hpcore:item/players/food/texturedw3",
-		"3": "hpcore:item/players/food/texturedw4",
-		"4": "hpcore:item/players/food/texturedw5",
-		"5": "hpcore:item/players/food/texturedw6",
-		"6": "hpcore:item/players/food/texturedw7",
-		"particle": "hpcore:item/players/food/texturedw1"
+		"0": "hpcore:block/players/food/texturedw1",
+		"1": "hpcore:block/players/food/texturedw2",
+		"2": "hpcore:block/players/food/texturedw3",
+		"3": "hpcore:block/players/food/texturedw4",
+		"4": "hpcore:block/players/food/texturedw5",
+		"5": "hpcore:block/players/food/texturedw6",
+		"6": "hpcore:block/players/food/texturedw7",
+		"particle": "hpcore:block/players/food/texturedw1"
 	},
 	"elements": [
 		{

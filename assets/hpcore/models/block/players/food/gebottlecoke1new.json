@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
-		"1": "hpcore:item/players/food/gebottle1",
-		"particle": "hpcore:item/players/food/gebottle1"
+		"1": "hpcore:block/players/food/gebottle1",
+		"particle": "hpcore:block/players/food/gebottle1"
 	},
 	"elements": [
 		{

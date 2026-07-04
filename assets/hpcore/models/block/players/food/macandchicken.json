@@ -1,9 +1,9 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "hpcore:item/players/food/tray",
-		"1": "hpcore:item/players/food/macandchicken",
-		"particle": "hpcore:item/players/food/tray"
+		"0": "hpcore:block/players/food/tray",
+		"1": "hpcore:block/players/food/macandchicken",
+		"particle": "hpcore:block/players/food/tray"
 	},
 	"elements": [
 		{
