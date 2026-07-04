@@ -47,7 +47,8 @@
       { "threshold": 1010, "model": { "type": "model", "model": "hpcore:block/parks/dhs/props/signs/sunset_boulevard/tot/totqueuesign" } },
 
 
-      { "threshold": 2001, "model": { "type": "model", "model": "hpcore:block/props/signs/exitsign" } }
+      { "threshold": 2001, "model": { "type": "model", "model": "hpcore:block/props/signs/exitsign" } },
+      { "threshold": 2002, "model": { "type": "model", "model": "hpcore:block/props/misc/signs/america/flag_america" } }
     ]
   } 
 }
