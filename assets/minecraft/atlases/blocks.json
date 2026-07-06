@@ -1,9 +1,9 @@
 {
-  "sources": [
-    {
-      "type": "directory",
-      "source": "hpcore:item",
-      "prefix": "hpcore:item/"
-    }
-  ]
+	"sources": [
+		{
+			"type": "directory",
+			"source": "blueprint",
+			"prefix": "blueprint/"
+		}
+	]
 }

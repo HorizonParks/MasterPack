@@ -1,0 +1,33 @@
+{
+	"formatVersion": "1.0.0",
+	"rigs": {
+		"aj:my_blueprint": {
+			"coreFiles": ["assets/minecraft/atlases/blocks.json", "pack.mcmeta"],
+			"versionedFiles": [
+				"assets/aj/items/blueprint/my_blueprint/body_down.json",
+				"assets/aj/items/blueprint/my_blueprint/body_up.json",
+				"assets/aj/items/blueprint/my_blueprint/head.json",
+				"assets/aj/items/blueprint/my_blueprint/left_arm_down.json",
+				"assets/aj/items/blueprint/my_blueprint/left_arm_up.json",
+				"assets/aj/items/blueprint/my_blueprint/left_leg_down.json",
+				"assets/aj/items/blueprint/my_blueprint/left_leg_up.json",
+				"assets/aj/items/blueprint/my_blueprint/right_arm_down.json",
+				"assets/aj/items/blueprint/my_blueprint/right_arm_up.json",
+				"assets/aj/items/blueprint/my_blueprint/right_leg_down.json",
+				"assets/aj/items/blueprint/my_blueprint/right_leg_up.json",
+				"assets/aj/models/blueprint/my_blueprint/body_down.json",
+				"assets/aj/models/blueprint/my_blueprint/body_up.json",
+				"assets/aj/models/blueprint/my_blueprint/head.json",
+				"assets/aj/models/blueprint/my_blueprint/left_arm_down.json",
+				"assets/aj/models/blueprint/my_blueprint/left_arm_up.json",
+				"assets/aj/models/blueprint/my_blueprint/left_leg_down.json",
+				"assets/aj/models/blueprint/my_blueprint/left_leg_up.json",
+				"assets/aj/models/blueprint/my_blueprint/right_arm_down.json",
+				"assets/aj/models/blueprint/my_blueprint/right_arm_up.json",
+				"assets/aj/models/blueprint/my_blueprint/right_leg_down.json",
+				"assets/aj/models/blueprint/my_blueprint/right_leg_up.json",
+				"assets/aj/textures/blueprint/my_blueprint/texture.png"
+			]
+		}
+	}
+}
