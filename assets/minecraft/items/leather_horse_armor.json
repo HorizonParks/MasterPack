@@ -8,36 +8,10 @@
     },
     "entries": [
       {
-        "threshold": 1001,
+        "threshold": 1,
         "model": {
           "type": "minecraft:model",
-          "model": "hpcore:block/props/lights/spotlight_beam_core",
-          "tints": [
-            {
-              "type": "minecraft:dye",
-              "default": 16777215
-            }
-          ]
-        }
-      },
-      {
-        "threshold": 1002,
-        "model": {
-          "type": "minecraft:model",
-          "model": "hpcore:block/props/lights/spotlight_beam_main",
-          "tints": [
-            {
-              "type": "minecraft:dye",
-              "default": 16777215
-            }
-          ]
-        }
-      },
-      {
-        "threshold": 1003,
-        "model": {
-          "type": "minecraft:model",
-          "model": "hpcore:block/props/lights/spotlight_beam_outer",
+          "model": "hpcore:block/props/lights/spotlight",
           "tints": [
             {
               "type": "minecraft:dye",
