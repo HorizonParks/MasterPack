@@ -11,7 +11,11 @@
       { "threshold": 2, "model": { "type": "model", "model": "hpcore:block/players/food/cocacolacan" } },
       { "threshold": 3, "model": { "type": "model", "model": "hpcore:block/players/food/gebottlecoke1new" } },
       { "threshold": 4, "model": { "type": "model", "model": "hpcore:block/players/food/gebottlecoke2new" } },
-      { "threshold": 5, "model": { "type": "model", "model": "hpcore:block/players/food/gebottlespritenew" } }
+      { "threshold": 5, "model": { "type": "model", "model": "hpcore:block/players/food/gebottlespritenew" } },
+
+
+
+      { "threshold": 1000, "model": { "type": "model", "model": "hpcore:block/props/lights/spotlight" } }
     ]
   } 
 } 
