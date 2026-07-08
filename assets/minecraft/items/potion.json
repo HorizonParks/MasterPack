@@ -13,9 +13,19 @@
       { "threshold": 4, "model": { "type": "model", "model": "hpcore:block/players/food/gebottlecoke2new" } },
       { "threshold": 5, "model": { "type": "model", "model": "hpcore:block/players/food/gebottlespritenew" } },
 
-
-
-      { "threshold": 1000, "model": { "type": "model", "model": "hpcore:block/props/lights/spotlight" } }
+      {
+        "threshold": 1000,
+        "model": {
+          "type": "minecraft:model",
+          "model": "hpcore:block/props/lights/spotlight",
+          "tints": [
+            {
+              "type": "minecraft:potion",
+              "default": 16777215
+            }
+          ]
+        }
+      }
     ]
   } 
-} 
+}
