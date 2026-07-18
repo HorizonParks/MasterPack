@@ -7,7 +7,15 @@
       "model": "item/wooden_pickaxe"
     },
     "entries": [
-      
+      { "threshold": 1, "model": { "type": "model", "model": "hpcore:block/props/misc/arms/armmic" } },
+      { "threshold": 2, "model": { "type": "model", "model": "hpcore:block/props/misc/arms/armtone1" } },
+      { "threshold": 3, "model": { "type": "model", "model": "hpcore:block/props/misc/arms/armtone2" } },
+      { "threshold": 4, "model": { "type": "model", "model": "hpcore:block/props/misc/arms/armtone3" } },
+      { "threshold": 5, "model": { "type": "model", "model": "hpcore:block/props/misc/arms/armtone4" } },
+      { "threshold": 6, "model": { "type": "model", "model": "hpcore:block/props/misc/arms/armtone5" } },
+      { "threshold": 7, "model": { "type": "model", "model": "hpcore:block/props/misc/arms/armtone6" } },
+      { "threshold": 8, "model": { "type": "model", "model": "hpcore:block/props/misc/arms/armtone7" } },
+      { "threshold": 9, "model": { "type": "model", "model": "hpcore:block/props/misc/arms/grayarmnew" } },
       { "threshold": 10, "model": { "type": "model", "model": "hpcore:block/props/misc/nature/flowers/nature-hanging-pot-flowers" } },
       { "threshold": 11, "model": { "type": "model", "model": "hpcore:block/props/misc/nature/flowers/nature-hanging-pot" } },
       { "threshold": 12, "model": { "type": "model", "model": "hpcore:block/props/misc/seats/spruce-black-bench" } },

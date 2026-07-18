@@ -1,8 +1,10 @@
 {
-	"pack": {
-		"pack_format": 88,
-		"min_format": 75,
-		"max_format": 88,
-		"description": "BETA Resourcepack For HorizonParks.net"
-	}
+  "pack": {
+    "pack_format": 88,
+    "supported_formats": {
+      "min_inclusive": 75,
+      "max_inclusive": 88
+    },
+    "description": "BETA Resourcepack For HorizonParks.net"
+  }
 }
