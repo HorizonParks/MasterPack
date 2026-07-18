@@ -15,6 +15,18 @@
       { "threshold": 6, "model": { "type": "model", "model": "hpcore:block/parks/epcot/props/signs/world_celebration/center/connections_eatery_sign2" } },
       { "threshold": 7, "model": { "type": "model", "model": "hpcore:block/parks/epcot/props/signs/world_celebration/center/creations_shop_sign" } },
       { "threshold": 8, "model": { "type": "model", "model": "hpcore:block/parks/epcot/props/signs/world_celebration/center/creations_shop_sign2" } },
+      { "threshold": 9, "model": { "type": "model", "model": "hpcore:block/parks/epcot/props/signs/world_discovery/tt/tt_sign" } },
+      { "threshold": 10, "model": { "type": "model", "model": "hpcore:block/parks/epcot/props/signs/world_discovery/tt/tt_sign_emissive" } },
+      { "threshold": 11, "model": { "type": "model", "model": "hpcore:block/parks/epcot/props/signs/world_discovery/gotg/screen_l" } },
+      { "threshold": 12, "model": { "type": "model", "model": "hpcore:block/parks/epcot/props/signs/world_discovery/gotg/screen_r" } },
+      { "threshold": 13, "model": { "type": "model", "model": "hpcore:block/parks/epcot/props/signs/world_discovery/gotg/wonders_of_xandar_sign_ll" } },
+      { "threshold": 14, "model": { "type": "model", "model": "hpcore:block/parks/epcot/props/signs/world_discovery/gotg/wonders_of_xandar_sign" } },
+
+
+
+
+
+
 
       { "threshold": 501, "model": { "type": "model", "model": "hpcore:block/parks/mk/props/signs/fantasyland/ppf/ppfstandby" } },
       { "threshold": 502, "model": { "type": "model", "model": "hpcore:block/parks/mk/props/signs/fantasyland/ppf/ppflightning" } },
