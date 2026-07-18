@@ -6,7 +6,7 @@
 		"1": "block/light_gray_concrete_powder",
 		"2": "block/coal_block",
 		"3": "block/black_concrete_powder",
-		"5": "hpcore:item/custom/cashsides",
+		"5": "hpcore:block/props/misc/shops/cashsides",
 		"particle": "hpcore:block/props/misc/shops/cashregistertexture1"
 	},
 	"elements": [
