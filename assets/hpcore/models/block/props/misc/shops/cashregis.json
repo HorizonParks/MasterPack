@@ -2,12 +2,12 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "item/custom/cashregistertexture1",
+		"0": "hpcore:block/props/misc/shops/cashregistertexture1",
 		"1": "block/light_gray_concrete_powder",
 		"2": "block/coal_block",
 		"3": "block/black_concrete_powder",
-		"5": "item/custom/cashsides",
-		"particle": "item/custom/cashregistertexture1"
+		"5": "hpcore:item/custom/cashsides",
+		"particle": "hpcore:block/props/misc/shops/cashregistertexture1"
 	},
 	"elements": [
 		{
