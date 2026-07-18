@@ -21,7 +21,7 @@
       { "threshold": 12, "model": { "type": "model", "model": "hpcore:block/props/misc/seats/spruce-black-bench" } },
       { "threshold": 13, "model": { "type": "model", "model": "hpcore:block/props/misc/shops/cashregis" } },
       { "threshold": 14, "model": { "type": "model", "model": "hpcore:block/props/misc/vehicles/bikes/bicyclecyan" } },
-      { "threshold": 15, "model": { "type": "model", "model": "hpcore:block/props/rides/controlpanel" } },
+      
       { "threshold": 16, "model": { "type": "model", "model": "hpcore:block/parks/dhs/props/building/galaxys_edge/cokestand/cokedroid" } },
       { "threshold": 17, "model": { "type": "model", "model": "hpcore:block/parks/dhs/props/building/galaxys_edge/cokestand/cokedroidhead" } },
       { "threshold": 18, "model": { "type": "model", "model": "hpcore:block/parks/dhs/props/building/galaxys_edge/cokestand/cokestandpanew4" } },
