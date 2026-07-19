@@ -6,7 +6,7 @@
 		"2": "hpcore:block/transportation/monorails/yellow/monorailyellowfront",
 		"3": "hpcore:block/transportation/monorails/yellow/monorailyellow",
 		"4": "hpcore:block/transportation/monorails/yellow/monorailyellowtext",
-		"5": "hpcore:block/transportation/monorails/yellow/monorailwdwtext_e",
+		"5": "hpcore:block/transportation/monorails/yellow/monorailwdwtext",
 		"6": "hpcore:block/transportation/monorails/yellow/monorailheadlights",
 		"particle": "hpcore:block/transportation/monorails/yellow/monorailyellow"
 	},
