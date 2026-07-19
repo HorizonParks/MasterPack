@@ -15,13 +15,16 @@ concurrency:
 
 jobs:
   build:
+    name: Optimize resource pack
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout pack
+      - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
-      - name: Build optimized pack
+      - name: Run PackSquash
         uses: ComunidadAylas/PackSquash-action@v4
         with:
           packsquash_version: latest
@@ -29,7 +32,7 @@ jobs:
             pack_directory = '.'
             output_file_path = './pack.zip'
 
-      - name: Generate SHA-1 files
+      - name: Generate hash and hashed pack
         id: pack
         shell: bash
         run: |
@@ -39,9 +42,9 @@ jobs:
           cp pack.zip "$HASH.zip"
 
           echo "hash=$HASH" >> "$GITHUB_OUTPUT"
-          echo "Generated pack: $HASH.zip"
+          echo "Generated $HASH.zip"
 
-      - name: Remove previous release assets
+      - name: Remove old release assets
         shell: bash
         env:
           GH_TOKEN: ${{ github.token }}
@@ -51,18 +54,16 @@ jobs:
               --json assets \
               --jq '.assets[].name' |
             while IFS= read -r asset; do
-              gh release delete-asset latest "$asset" --yes
+              [ -n "$asset" ] && gh release delete-asset latest "$asset" --yes
             done
           fi
 
-      - name: Publish latest pack
-        uses: softprops/action-gh-release@v3
+      - name: Publish latest release
+        uses: softprops/action-gh-release@v2
         with:
           tag_name: latest
           name: Latest Resource Pack
           make_latest: true
-          overwrite_files: true
           files: |
-            pack.zip
             hash.txt
             ${{ steps.pack.outputs.hash }}.zip
