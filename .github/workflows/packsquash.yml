@@ -1,22 +1,16 @@
 name: Optimize resource pack
-
-on:
-  push:
-  workflow_dispatch:
-
-permissions:
-  contents: write
+on: [push, workflow_dispatch]
 
 jobs:
   packsquash:
+    permissions: write-all
     name: Optimize resource pack
     runs-on: ubuntu-latest
-
     steps:
       - name: Clone repository
         uses: actions/checkout@v4
         with:
-          fetch-depth: 0
+          fetch-depth: 0 # A non-shallow repository clone is required
 
       - name: Run PackSquash
         uses: ComunidadAylas/PackSquash-action@v4
@@ -26,27 +20,16 @@ jobs:
             pack_directory = '.'
             output_file_path = './pack.zip'
 
-      - name: Generate hash
-        shell: bash
-        run: |
-          HASH=$(sha1sum pack.zip | cut -d ' ' -f 1)
-          echo -n "$HASH" > hash.txt
-          cp pack.zip "$HASH.zip"
+      - name: Generate Hash
+        run: sha1sum pack.zip | head -c 40 > hash.txt
 
-      - name: Remove old latest release
-        shell: bash
-        env:
-          GH_TOKEN: ${{ github.token }}
-        run: |
-          gh release delete latest --cleanup-tag --yes || true
+      - name: Copy Pack For Plugin
+        run: cp pack.zip $(cat hash.txt).zip
 
-      - name: Create latest release
+      - name: Tag and create release
         uses: softprops/action-gh-release@v2
         with:
           tag_name: latest
-          name: Latest Resource Pack
-          make_latest: true
           files: |
-            pack.zip
+            *.zip
             hash.txt
-            [a-f0-9]*.zip
