@@ -10,7 +10,9 @@
       { "threshold": 1, "model": { "type": "model", "model": "hpcore:block/parks/epcot/props/lights/world_celebration/pillars" } },
       { "threshold": 2, "model": { "type": "model", "model": "hpcore:block/props/lights/black-lamp-post" } },
       { "threshold": 3, "model": { "type": "model", "model": "hpcore:block/props/lights/dark-black-short-lamp-post" } },
-      { "threshold": 4, "model": { "type": "model", "model": "hpcore:block/props/lights/spruce-plant-lamp-post" } }
+      { "threshold": 4, "model": { "type": "model", "model": "hpcore:block/props/lights/spruce-plant-lamp-post" } },
+      { "threshold": 5, "model": { "type": "model", "model": "hpcore:block/parks/mk/props/lights/fantasyland/tangeledlighttower" } },
+      { "threshold": 6, "model": { "type": "model", "model": "hpcore:block/parks/mk/props/lights/common/newlamppost" } }
     ]
   } 
 }

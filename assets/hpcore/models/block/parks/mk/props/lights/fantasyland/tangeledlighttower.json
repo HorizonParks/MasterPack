@@ -1,9 +1,9 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "item/custom/tangeledlighttower",
-		"1": "item/custom/tangeledlighttower2",
-		"particle": "item/custom/tangeledlighttower"
+		"0": "hpcore:block/parks/mk/props/lights/fantasyland/tangeledlighttower",
+		"1": "hpcore:block/parks/mk/props/lights/fantasyland/tangeledlighttower2",
+		"particle": "hpcore:block/parks/mk/props/lights/fantasyland/tangeledlighttower"
 	},
 	"elements": [
 		{
