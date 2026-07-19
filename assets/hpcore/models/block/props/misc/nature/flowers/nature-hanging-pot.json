@@ -1,4 +1,5 @@
 {
+	"format_version": "1.21.11",
 	"credit": "Made with Blockbench",
 	"textures": {
 		"0": "block/barrel_side",
@@ -153,9 +154,9 @@
 			"to": [3.02513, 9.75, -0.07644],
 			"faces": {
 				"north": {"uv": [0, 0, 16, 16], "texture": "#4"},
-				"east": {"uv": [6.5, 9, 7.5, 18], "texture": "#4"},
+				"east": {"uv": [6.5, 9, 7.5, 16], "texture": "#4"},
 				"south": {"uv": [0, 0, 16, 16], "texture": "#4"},
-				"west": {"uv": [5.5, 9, 6.5, 18], "texture": "#4"},
+				"west": {"uv": [5.5, 9, 6.5, 16], "texture": "#4"},
 				"up": {"uv": [8.5, 15, 7.5, 9], "rotation": 270, "texture": "#4"},
 				"down": {"uv": [9.5, 9, 8.5, 15], "rotation": 90, "texture": "#4"}
 			}
@@ -235,18 +236,21 @@
 		{
 			"name": "group",
 			"origin": [12.5, 0, 0],
+			"scope": 0,
 			"color": 0,
 			"children": [12, 13, 14, 15]
 		},
 		{
 			"name": "group",
 			"origin": [12.5, 0, 0],
+			"scope": 0,
 			"color": 0,
 			"children": []
 		},
 		{
 			"name": "group",
 			"origin": [12.5, 0, 0],
+			"scope": 0,
 			"color": 0,
 			"children": []
 		}
